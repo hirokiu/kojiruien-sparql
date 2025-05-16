@@ -1,0 +1,712 @@
+<http://waka.kgraph.jp/waka/i370-001-058> <http://waka.kgraph.jp/kgraph-waka#kana> "そむれとも−つれなきまきの−したはより−しくれにあへぬ−そてのいろかな" .
+<http://waka.kgraph.jp/collection/月卿雲客妬歌合　> <http://waka.kgraph.jp/kgraph-waka#sentenceId> "i370-001-032" .
+<http://waka.kgraph.jp/waka/i370-001-003> <http://waka.kgraph.jp/kgraph-waka#variantNumber> "None" .
+<http://waka.kgraph.jp/waka/i370-001-049> <http://waka.kgraph.jp/kgraph-waka#kanji> "衣手はしくるる雨のふりはへてとはれぬ山のおくのかり庵" .
+<http://waka.kgraph.jp/waka/i370-001-054> <http://www.w3.org/2002/07/owl#sameAs> <https://lapis.nichibun.ac.jp/waka/waka_i370.html#i370-001-054> .
+<http://waka.kgraph.jp/waka/i370-001-038> <http://waka.kgraph.jp/kgraph-waka#authorNumber> "xxx" .
+<http://waka.kgraph.jp/waka/i370-001-037> <http://waka.kgraph.jp/kgraph-waka#kana> "わかこひは−つれなきなみを−かことにて−かよふもくるし−にほのしたみち" .
+<http://waka.kgraph.jp/collection/月卿雲客妬歌合　> <http://waka.kgraph.jp/kgraph-waka#collectionName> "月卿雲客妬歌合　" .
+<http://waka.kgraph.jp/waka/i370-001-031> <http://waka.kgraph.jp/kgraph-waka#selected> <http://waka.kgraph.jp/collection/月卿雲客妬歌合　> .
+<http://waka.kgraph.jp/waka/i370-001-035> <http://waka.kgraph.jp/kgraph-waka#yearBegin> "1214" .
+<http://waka.kgraph.jp/collection/月卿雲客妬歌合　> <http://waka.kgraph.jp/kgraph-waka#sentenceId> "i370-001-003" .
+<http://waka.kgraph.jp/waka/i370-001-019> <http://waka.kgraph.jp/kgraph-waka#sentenceNumber> "00020" .
+<http://waka.kgraph.jp/waka/i370-001-014> <http://waka.kgraph.jp/kgraph-waka#sentenceNumber> "00015" .
+<http://waka.kgraph.jp/waka/i370-001-005> <http://purl.org/dc/elements/1.1/creator> <http://waka.kgraph.jp/author/未入力> .
+<http://waka.kgraph.jp/waka/i370-001-055> <http://www.w3.org/2002/07/owl#sameAs> <https://lapis.nichibun.ac.jp/waka/waka_i370.html#i370-001-055> .
+<http://waka.kgraph.jp/waka/i370-001-033> <http://purl.org/dc/elements/1.1/creator> <http://waka.kgraph.jp/author/未入力> .
+<http://waka.kgraph.jp/waka/i370-001-032> <http://waka.kgraph.jp/kgraph-waka#kanji> "あふことはかたののとたちかるたかのそれてむなしき思ひなりけり" .
+<http://waka.kgraph.jp/waka/i370-001-011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://waka.kgraph.jp/kgraph-waka#waka> .
+<http://waka.kgraph.jp/waka/i370-001-006> <http://waka.kgraph.jp/kgraph-waka#variantNumber> "None" .
+<http://waka.kgraph.jp/waka/i370-001-005> <http://www.w3.org/2002/07/owl#sameAs> <https://lapis.nichibun.ac.jp/waka/waka_i370.html#i370-001-005> .
+<http://waka.kgraph.jp/waka/i370-001-049> <http://waka.kgraph.jp/kgraph-waka#sentenceNumber> "00050" .
+<http://waka.kgraph.jp/waka/i370-001-034> <http://waka.kgraph.jp/kgraph-waka#variantNumber> "None" .
+<http://waka.kgraph.jp/waka/i370-001-004> <http://purl.org/dc/elements/1.1/creator> <http://waka.kgraph.jp/author/未入力> .
+<http://waka.kgraph.jp/waka/i370-001-007> <http://waka.kgraph.jp/kgraph-waka#yearBegin> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-055> <http://waka.kgraph.jp/kgraph-waka#selected> <http://waka.kgraph.jp/collection/月卿雲客妬歌合　> .
+<http://waka.kgraph.jp/waka/i370-001-030> <http://waka.kgraph.jp/kgraph-waka#kanji> "わすれしな人をうらみてなくなへにいなとなつけそいなおほせ鳥" .
+<http://waka.kgraph.jp/waka/i370-001-006> <http://waka.kgraph.jp/kgraph-waka#yearEnd> "1214" .
+<http://waka.kgraph.jp/collection/月卿雲客妬歌合　> <http://waka.kgraph.jp/kgraph-waka#sentenceId> "i370-001-015" .
+<http://waka.kgraph.jp/waka/i370-001-010> <http://purl.org/dc/elements/1.1/creator> <http://waka.kgraph.jp/author/未入力> .
+<http://waka.kgraph.jp/waka/i370-001-011> <http://waka.kgraph.jp/kgraph-waka#yearBegin> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-017> <http://waka.kgraph.jp/kgraph-waka#kanji> "よもすからしくるる夜半のあらしよりこの葉にうかふ谷川の水" .
+<http://waka.kgraph.jp/waka/i370-001-003> <http://purl.org/dc/elements/1.1/creator> <http://waka.kgraph.jp/author/未入力> .
+<http://waka.kgraph.jp/waka/i370-001-006> <http://waka.kgraph.jp/kgraph-waka#kana> "あきのいろの−さそふみつあらはと−おもひける−もみちをなかす−うちのかはなみxxxxxxxx･00007こからしの−たつたのもみち−もろともに−さそへはさそふ−あきのかはなみ" .
+<http://waka.kgraph.jp/waka/i370-001-032> <http://waka.kgraph.jp/kgraph-waka#variantNumber> "None" .
+<http://waka.kgraph.jp/waka/i370-001-056> <http://purl.org/dc/elements/1.1/creator> <http://waka.kgraph.jp/author/未入力> .
+<http://waka.kgraph.jp/waka/i370-001-033> <http://waka.kgraph.jp/kgraph-waka#selected> <http://waka.kgraph.jp/collection/月卿雲客妬歌合　> .
+<http://waka.kgraph.jp/waka/i370-001-015> <http://purl.org/dc/elements/1.1/creator> <http://waka.kgraph.jp/author/未入力> .
+<http://waka.kgraph.jp/waka/i370-001-009> <http://waka.kgraph.jp/kgraph-waka#kana> "おほゐかは−わたらはにしき−あともをし−このころはかり−いかたおろすな" .
+<http://waka.kgraph.jp/waka/i370-001-029> <http://waka.kgraph.jp/kgraph-waka#kanji> "うしや猶とほ山とりのひとりのみなかきおもひにあかぬ夜の袖" .
+<http://waka.kgraph.jp/waka/i370-001-024> <http://waka.kgraph.jp/kgraph-waka#kana> "ものおもふ−そてのなみたの−くれなゐに−ふりつつそなく−やまほとときす" .
+<http://waka.kgraph.jp/waka/i370-001-005> <http://waka.kgraph.jp/kgraph-waka#kanji> "吹く風のここにはみえぬからにしき川せのなみのたつにまかせて" .
+<http://waka.kgraph.jp/waka/i370-001-032> <http://waka.kgraph.jp/kgraph-waka#yearEnd> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-004> <http://waka.kgraph.jp/kgraph-waka#selected> <http://waka.kgraph.jp/collection/月卿雲客妬歌合　> .
+<http://waka.kgraph.jp/waka/i370-001-013> <http://waka.kgraph.jp/kgraph-waka#variantNumber> "None" .
+<http://waka.kgraph.jp/collection/月卿雲客妬歌合　> <http://waka.kgraph.jp/kgraph-waka#sentenceId> "i370-001-025" .
+<http://waka.kgraph.jp/waka/i370-001-009> <http://waka.kgraph.jp/kgraph-waka#selected> <http://waka.kgraph.jp/collection/月卿雲客妬歌合　> .
+<http://waka.kgraph.jp/collection/月卿雲客妬歌合　> <http://waka.kgraph.jp/kgraph-waka#sentenceId> "i370-001-031" .
+<http://waka.kgraph.jp/waka/i370-001-058> <http://waka.kgraph.jp/kgraph-waka#selected> <http://waka.kgraph.jp/collection/月卿雲客妬歌合　> .
+<http://waka.kgraph.jp/waka/i370-001-029> <http://waka.kgraph.jp/kgraph-waka#yearBegin> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-058> <http://www.w3.org/2002/07/owl#sameAs> <https://lapis.nichibun.ac.jp/waka/waka_i370.html#i370-001-058> .
+<http://waka.kgraph.jp/waka/i370-001-050> <http://purl.org/dc/elements/1.1/creator> <http://waka.kgraph.jp/author/未入力> .
+<http://waka.kgraph.jp/waka/i370-001-053> <http://purl.org/dc/elements/1.1/creator> <http://waka.kgraph.jp/author/未入力> .
+<http://waka.kgraph.jp/waka/i370-001-040> <http://waka.kgraph.jp/kgraph-waka#authorNumber> "xxx" .
+<http://waka.kgraph.jp/waka/i370-001-007> <http://waka.kgraph.jp/kgraph-waka#kana> "みわたせは−あきかせなかる−たつたかは−ちるやみむろの−やまのこのはに" .
+<http://waka.kgraph.jp/waka/i370-001-050> <http://waka.kgraph.jp/kgraph-waka#kanji> "まきの葉になれてもそはぬ村時雨いく夜むなしき山をすくらむ" .
+<http://waka.kgraph.jp/collection/月卿雲客妬歌合　> <http://waka.kgraph.jp/kgraph-waka#sentenceId> "i370-001-051" .
+<http://waka.kgraph.jp/collection/月卿雲客妬歌合　> <http://waka.kgraph.jp/kgraph-waka#sentenceId> "i370-001-052" .
+<http://waka.kgraph.jp/waka/i370-001-021> <http://purl.org/dc/elements/1.1/creator> <http://waka.kgraph.jp/author/未入力> .
+<http://waka.kgraph.jp/waka/i370-001-034> <http://purl.org/dc/elements/1.1/creator> <http://waka.kgraph.jp/author/未入力> .
+<http://waka.kgraph.jp/waka/i370-001-057> <http://waka.kgraph.jp/kgraph-waka#variantNumber> "None" .
+<http://waka.kgraph.jp/waka/i370-001-007> <http://waka.kgraph.jp/kgraph-waka#yearEnd> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-026> <http://waka.kgraph.jp/kgraph-waka#yearBegin> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-059> <http://waka.kgraph.jp/kgraph-waka#selected> <http://waka.kgraph.jp/collection/月卿雲客妬歌合　> .
+<http://waka.kgraph.jp/waka/i370-001-043> <http://www.w3.org/2002/07/owl#sameAs> <https://lapis.nichibun.ac.jp/waka/waka_i370.html#i370-001-043> .
+<http://waka.kgraph.jp/waka/i370-001-022> <http://waka.kgraph.jp/kgraph-waka#kana> "あふさかの−ゆふつけとりの−こゑたてて−たのめぬひとの−ゆききをそまつ" .
+<http://waka.kgraph.jp/waka/i370-001-052> <http://waka.kgraph.jp/kgraph-waka#yearBegin> "1214" .
+<http://waka.kgraph.jp/collection/月卿雲客妬歌合　> <http://waka.kgraph.jp/kgraph-waka#sentenceId> "i370-001-037" .
+<http://waka.kgraph.jp/collection/月卿雲客妬歌合　> <http://waka.kgraph.jp/kgraph-waka#sentenceId> "i370-001-004" .
+<http://waka.kgraph.jp/waka/i370-001-023> <http://waka.kgraph.jp/kgraph-waka#kana> "とふとりの−あとみしそらに−たつけふり−たえむおもひの−しるへはかなし" .
+<http://waka.kgraph.jp/waka/i370-001-053> <http://waka.kgraph.jp/kgraph-waka#selected> <http://waka.kgraph.jp/collection/月卿雲客妬歌合　> .
+<http://waka.kgraph.jp/collection/月卿雲客妬歌合　> <http://waka.kgraph.jp/kgraph-waka#sentenceId> "i370-001-020" .
+<http://waka.kgraph.jp/waka/i370-001-019> <http://waka.kgraph.jp/kgraph-waka#kana> "まきもくの−たかねのくもや−しくれぬる−あなしのかはに−このはすくなり" .
+<http://waka.kgraph.jp/waka/i370-001-053> <http://waka.kgraph.jp/kgraph-waka#kanji> "むら雲は風も吹きあへすかつらきやたかまの奥もしくれすくらし" .
+<http://waka.kgraph.jp/waka/i370-001-018> <http://purl.org/dc/elements/1.1/creator> <http://waka.kgraph.jp/author/未入力> .
+<http://waka.kgraph.jp/waka/i370-001-039> <http://waka.kgraph.jp/kgraph-waka#variantNumber> "None" .
+<http://waka.kgraph.jp/waka/i370-001-017> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://waka.kgraph.jp/kgraph-waka#waka> .
+<http://waka.kgraph.jp/waka/i370-001-047> <http://www.w3.org/2002/07/owl#sameAs> <https://lapis.nichibun.ac.jp/waka/waka_i370.html#i370-001-047> .
+<http://waka.kgraph.jp/waka/i370-001-048> <http://purl.org/dc/elements/1.1/creator> <http://waka.kgraph.jp/author/未入力> .
+<http://waka.kgraph.jp/waka/i370-001-050> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://waka.kgraph.jp/kgraph-waka#waka> .
+<http://waka.kgraph.jp/waka/i370-001-016> <http://waka.kgraph.jp/kgraph-waka#yearBegin> "1214" .
+<http://waka.kgraph.jp/collection/月卿雲客妬歌合　> <http://waka.kgraph.jp/kgraph-waka#sentenceId> "i370-001-017" .
+<http://waka.kgraph.jp/waka/i370-001-033> <http://waka.kgraph.jp/kgraph-waka#kana> "しられしな−ふかきえにすむ−みつとりの−したやすからぬ−おもひありとも" .
+<http://waka.kgraph.jp/waka/i370-001-022> <http://waka.kgraph.jp/kgraph-waka#variantNumber> "None" .
+<http://waka.kgraph.jp/waka/i370-001-042> <http://waka.kgraph.jp/kgraph-waka#selected> <http://waka.kgraph.jp/collection/月卿雲客妬歌合　> .
+<http://waka.kgraph.jp/waka/i370-001-054> <http://waka.kgraph.jp/kgraph-waka#variantNumber> "None" .
+<http://waka.kgraph.jp/waka/i370-001-029> <http://waka.kgraph.jp/kgraph-waka#yearEnd> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-045> <http://waka.kgraph.jp/kgraph-waka#sentenceNumber> "00046" .
+<http://waka.kgraph.jp/waka/i370-001-051> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://waka.kgraph.jp/kgraph-waka#waka> .
+<http://waka.kgraph.jp/waka/i370-001-013> <http://www.w3.org/2002/07/owl#sameAs> <https://lapis.nichibun.ac.jp/waka/waka_i370.html#i370-001-013> .
+<http://waka.kgraph.jp/waka/i370-001-013> <http://waka.kgraph.jp/kgraph-waka#kana> "たつたかは−うつるこのまの−いろなから−あきをそさそふ−みつのしらなみ" .
+<http://waka.kgraph.jp/waka/i370-001-001> <http://purl.org/dc/elements/1.1/creator> <http://waka.kgraph.jp/author/未入力> .
+<http://waka.kgraph.jp/waka/i370-001-008> <http://waka.kgraph.jp/kgraph-waka#variantNumber> "None" .
+<http://waka.kgraph.jp/waka/i370-001-023> <http://waka.kgraph.jp/kgraph-waka#sentenceNumber> "00024" .
+<http://waka.kgraph.jp/waka/i370-001-026> <http://waka.kgraph.jp/kgraph-waka#yearEnd> "1214" .
+<http://waka.kgraph.jp/collection/月卿雲客妬歌合　> <http://waka.kgraph.jp/kgraph-waka#sentenceId> "i370-001-029" .
+<http://waka.kgraph.jp/waka/i370-001-036> <http://waka.kgraph.jp/kgraph-waka#variantNumber> "None" .
+<http://waka.kgraph.jp/waka/i370-001-027> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://waka.kgraph.jp/kgraph-waka#waka> .
+<http://waka.kgraph.jp/waka/i370-001-041> <http://www.w3.org/2002/07/owl#sameAs> <https://lapis.nichibun.ac.jp/waka/waka_i370.html#i370-001-041> .
+<http://waka.kgraph.jp/waka/i370-001-019> <http://www.w3.org/2002/07/owl#sameAs> <https://lapis.nichibun.ac.jp/waka/waka_i370.html#i370-001-019> .
+<http://waka.kgraph.jp/waka/i370-001-031> <http://waka.kgraph.jp/kgraph-waka#variantNumber> "None" .
+<http://waka.kgraph.jp/waka/i370-001-026> <http://waka.kgraph.jp/kgraph-waka#kanji> "たつのゐるあしへの塩のいやましに袖ほすひまもなくなくそふる" .
+<http://waka.kgraph.jp/waka/i370-001-018> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://waka.kgraph.jp/kgraph-waka#waka> .
+<http://waka.kgraph.jp/collection/月卿雲客妬歌合　> <http://waka.kgraph.jp/kgraph-waka#sentenceId> "i370-001-023" .
+<http://waka.kgraph.jp/waka/i370-001-026> <http://waka.kgraph.jp/kgraph-waka#authorNumber> "xxx" .
+<http://waka.kgraph.jp/waka/i370-001-037> <http://waka.kgraph.jp/kgraph-waka#selected> <http://waka.kgraph.jp/collection/月卿雲客妬歌合　> .
+<http://waka.kgraph.jp/waka/i370-001-034> <http://waka.kgraph.jp/kgraph-waka#kana> "わひつつも−さよやふけひの−うらちとり−なくねあとなき−そてのつきかな" .
+<http://waka.kgraph.jp/waka/i370-001-045> <http://waka.kgraph.jp/kgraph-waka#kanji> "たへてたれきくか嵐のふき迷ふよしののおくの秋のむら雨" .
+<http://waka.kgraph.jp/waka/i370-001-008> <http://waka.kgraph.jp/kgraph-waka#sentenceNumber> "00009" .
+<http://waka.kgraph.jp/waka/i370-001-024> <http://waka.kgraph.jp/kgraph-waka#variantNumber> "None" .
+<http://waka.kgraph.jp/waka/i370-001-018> <http://www.w3.org/2002/07/owl#sameAs> <https://lapis.nichibun.ac.jp/waka/waka_i370.html#i370-001-018> .
+<http://waka.kgraph.jp/waka/i370-001-040> <http://waka.kgraph.jp/kgraph-waka#selected> <http://waka.kgraph.jp/collection/月卿雲客妬歌合　> .
+<http://waka.kgraph.jp/waka/i370-001-022> <http://purl.org/dc/elements/1.1/creator> <http://waka.kgraph.jp/author/未入力> .
+<http://waka.kgraph.jp/waka/i370-001-057> <http://waka.kgraph.jp/kgraph-waka#yearEnd> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-015> <http://waka.kgraph.jp/kgraph-waka#yearBegin> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-024> <http://waka.kgraph.jp/kgraph-waka#yearEnd> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-047> <http://waka.kgraph.jp/kgraph-waka#sentenceNumber> "00048" .
+<http://waka.kgraph.jp/waka/i370-001-055> <http://waka.kgraph.jp/kgraph-waka#kanji> "外山たにさひしきころのむら雨に雲よりおくの秋のゆふくれ" .
+<http://waka.kgraph.jp/waka/i370-001-007> <http://www.w3.org/2002/07/owl#sameAs> <https://lapis.nichibun.ac.jp/waka/waka_i370.html#i370-001-007> .
+<http://waka.kgraph.jp/waka/i370-001-007> <http://waka.kgraph.jp/kgraph-waka#authorNumber> "xxx" .
+<http://waka.kgraph.jp/waka/i370-001-020> <http://waka.kgraph.jp/kgraph-waka#sentenceNumber> "00021" .
+<http://waka.kgraph.jp/waka/i370-001-030> <http://waka.kgraph.jp/kgraph-waka#variantNumber> "None" .
+<http://waka.kgraph.jp/waka/i370-001-020> <http://waka.kgraph.jp/kgraph-waka#kana> "けふもきて−むなしきそてに−とふとりの−あすかとたにも−なにをたのまむ" .
+<http://waka.kgraph.jp/waka/i370-001-012> <http://purl.org/dc/elements/1.1/creator> <http://waka.kgraph.jp/author/未入力> .
+<http://waka.kgraph.jp/waka/i370-001-050> <http://waka.kgraph.jp/kgraph-waka#yearBegin> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-017> <http://waka.kgraph.jp/kgraph-waka#yearBegin> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-013> <http://purl.org/dc/elements/1.1/creator> <http://waka.kgraph.jp/author/未入力> .
+<http://waka.kgraph.jp/waka/i370-001-041> <http://waka.kgraph.jp/kgraph-waka#kana> "ふみまよひ−たつきもしらぬ−やまひとの−そてもしをりの−あめのゆふくれ" .
+<http://waka.kgraph.jp/waka/i370-001-057> <http://waka.kgraph.jp/kgraph-waka#authorNumber> "xxx" .
+<http://waka.kgraph.jp/waka/i370-001-009> <http://waka.kgraph.jp/kgraph-waka#variantNumber> "None" .
+<http://waka.kgraph.jp/waka/i370-001-006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://waka.kgraph.jp/kgraph-waka#waka> .
+<http://waka.kgraph.jp/waka/i370-001-014> <http://waka.kgraph.jp/kgraph-waka#variantNumber> "None" .
+<http://waka.kgraph.jp/waka/i370-001-022> <http://waka.kgraph.jp/kgraph-waka#sentenceNumber> "00023" .
+<http://waka.kgraph.jp/waka/i370-001-030> <http://www.w3.org/2002/07/owl#sameAs> <https://lapis.nichibun.ac.jp/waka/waka_i370.html#i370-001-030> .
+<http://waka.kgraph.jp/waka/i370-001-038> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://waka.kgraph.jp/kgraph-waka#waka> .
+<http://waka.kgraph.jp/waka/i370-001-009> <http://waka.kgraph.jp/kgraph-waka#kanji> "竜田川なみにのこらぬ紅葉葉をとやまにしのふ松風のこゑ" .
+<http://waka.kgraph.jp/waka/i370-001-028> <http://purl.org/dc/elements/1.1/creator> <http://waka.kgraph.jp/author/未入力> .
+<http://waka.kgraph.jp/waka/i370-001-032> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://waka.kgraph.jp/kgraph-waka#waka> .
+<http://waka.kgraph.jp/waka/i370-001-027> <http://waka.kgraph.jp/kgraph-waka#yearBegin> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-034> <http://waka.kgraph.jp/kgraph-waka#kanji> "しられしなふかき江にすむ水鳥の下やすからぬ思ひありとも" .
+<http://waka.kgraph.jp/waka/i370-001-044> <http://waka.kgraph.jp/kgraph-waka#kanji> "山人の袖のみ色にふるあめのしつくむなしきまきの秋風" .
+<http://waka.kgraph.jp/waka/i370-001-029> <http://waka.kgraph.jp/kgraph-waka#authorNumber> "xxx" .
+<http://waka.kgraph.jp/waka/i370-001-056> <http://waka.kgraph.jp/kgraph-waka#yearEnd> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-001> <http://waka.kgraph.jp/kgraph-waka#selected> <http://waka.kgraph.jp/collection/月卿雲客妬歌合　> .
+<http://waka.kgraph.jp/waka/i370-001-038> <http://waka.kgraph.jp/kgraph-waka#yearBegin> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-011> <http://waka.kgraph.jp/kgraph-waka#kana> "たつたやま−あらしのそらの−ゆふしくれ−かはせのなみの−いろもそめけり" .
+<http://waka.kgraph.jp/collection/月卿雲客妬歌合　> <http://waka.kgraph.jp/kgraph-waka#sentenceId> "i370-001-048" .
+<http://waka.kgraph.jp/waka/i370-001-055> <http://waka.kgraph.jp/kgraph-waka#sentenceNumber> "00056" .
+<http://waka.kgraph.jp/waka/i370-001-002> <http://waka.kgraph.jp/kgraph-waka#selected> <http://waka.kgraph.jp/collection/月卿雲客妬歌合　> .
+<http://waka.kgraph.jp/waka/i370-001-006> <http://waka.kgraph.jp/kgraph-waka#sentenceNumber> "00006" .
+<http://waka.kgraph.jp/waka/i370-001-047> <http://waka.kgraph.jp/kgraph-waka#selected> <http://waka.kgraph.jp/collection/月卿雲客妬歌合　> .
+<http://waka.kgraph.jp/waka/i370-001-049> <http://waka.kgraph.jp/kgraph-waka#selected> <http://waka.kgraph.jp/collection/月卿雲客妬歌合　> .
+<http://waka.kgraph.jp/waka/i370-001-004> <http://waka.kgraph.jp/kgraph-waka#sentenceNumber> "00004" .
+<http://waka.kgraph.jp/waka/i370-001-023> <http://waka.kgraph.jp/kgraph-waka#variantNumber> "None" .
+<http://waka.kgraph.jp/waka/i370-001-005> <http://waka.kgraph.jp/kgraph-waka#kana> "ふくかせの−ここにはみえぬ−からにしき−かはせのなみの−たつにまかせて" .
+<http://waka.kgraph.jp/waka/i370-001-053> <http://waka.kgraph.jp/kgraph-waka#variantNumber> "None" .
+<http://waka.kgraph.jp/waka/i370-001-016> <http://www.w3.org/2002/07/owl#sameAs> <https://lapis.nichibun.ac.jp/waka/waka_i370.html#i370-001-016> .
+<http://waka.kgraph.jp/waka/i370-001-005> <http://waka.kgraph.jp/kgraph-waka#variantNumber> "None" .
+<http://waka.kgraph.jp/waka/i370-001-034> <http://www.w3.org/2002/07/owl#sameAs> <https://lapis.nichibun.ac.jp/waka/waka_i370.html#i370-001-034> .
+<http://waka.kgraph.jp/waka/i370-001-039> <http://purl.org/dc/elements/1.1/creator> <http://waka.kgraph.jp/author/未入力> .
+<http://waka.kgraph.jp/waka/i370-001-050> <http://waka.kgraph.jp/kgraph-waka#yearEnd> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-019> <http://waka.kgraph.jp/kgraph-waka#variantNumber> "None" .
+<http://waka.kgraph.jp/waka/i370-001-033> <http://waka.kgraph.jp/kgraph-waka#variantNumber> "None" .
+<http://waka.kgraph.jp/waka/i370-001-025> <http://purl.org/dc/elements/1.1/creator> <http://waka.kgraph.jp/author/未入力> .
+<http://waka.kgraph.jp/waka/i370-001-041> <http://waka.kgraph.jp/kgraph-waka#selected> <http://waka.kgraph.jp/collection/月卿雲客妬歌合　> .
+<http://waka.kgraph.jp/waka/i370-001-005> <http://waka.kgraph.jp/kgraph-waka#yearEnd> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-043> <http://purl.org/dc/elements/1.1/creator> <http://waka.kgraph.jp/author/未入力> .
+<http://waka.kgraph.jp/waka/i370-001-011> <http://www.w3.org/2002/07/owl#sameAs> <https://lapis.nichibun.ac.jp/waka/waka_i370.html#i370-001-011> .
+<http://waka.kgraph.jp/waka/i370-001-020> <http://waka.kgraph.jp/kgraph-waka#selected> <http://waka.kgraph.jp/collection/月卿雲客妬歌合　> .
+<http://waka.kgraph.jp/waka/i370-001-021> <http://waka.kgraph.jp/kgraph-waka#yearEnd> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-004> <http://waka.kgraph.jp/kgraph-waka#variantNumber> "None" .
+<http://waka.kgraph.jp/waka/i370-001-041> <http://waka.kgraph.jp/kgraph-waka#kanji> "つれつれのなかめも今やまさきちる太山の秋のむら雨の空" .
+<http://waka.kgraph.jp/waka/i370-001-054> <http://purl.org/dc/elements/1.1/creator> <http://waka.kgraph.jp/author/未入力> .
+<http://waka.kgraph.jp/waka/i370-001-058> <http://waka.kgraph.jp/kgraph-waka#kanji> "大かたのさひしさのみはなかりけり深山のあめの秋のゆふくれ" .
+<http://waka.kgraph.jp/waka/i370-001-010> <http://waka.kgraph.jp/kgraph-waka#variantNumber> "None" .
+<http://waka.kgraph.jp/waka/i370-001-017> <http://waka.kgraph.jp/kgraph-waka#authorNumber> "xxx" .
+<http://waka.kgraph.jp/waka/i370-001-050> <http://waka.kgraph.jp/kgraph-waka#authorNumber> "xxx" .
+<http://waka.kgraph.jp/waka/i370-001-044> <http://waka.kgraph.jp/kgraph-waka#kana> "たへてたれ−きくかあらしの−ふきまよふ−よしののおくの−あきのむらさめ" .
+<http://waka.kgraph.jp/waka/i370-001-056> <http://waka.kgraph.jp/kgraph-waka#variantNumber> "None" .
+<http://waka.kgraph.jp/waka/i370-001-046> <http://waka.kgraph.jp/kgraph-waka#kana> "よしのやま−さむきあらしの−ふくままに−このはこきませ−うちしくれつつ" .
+<http://waka.kgraph.jp/waka/i370-001-010> <http://waka.kgraph.jp/kgraph-waka#kanji> "おほ井河わたらはにしき跡もをしこの比はかりいかたおろすな" .
+<http://waka.kgraph.jp/waka/i370-001-006> <http://waka.kgraph.jp/kgraph-waka#yearBegin> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-020> <http://waka.kgraph.jp/kgraph-waka#kanji> "まきもくのたかねの雲やしくれぬるあなしの河にこのはすくなり" .
+<http://waka.kgraph.jp/waka/i370-001-034> <http://waka.kgraph.jp/kgraph-waka#yearBegin> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-052> <http://waka.kgraph.jp/kgraph-waka#sentenceNumber> "00053" .
+<http://waka.kgraph.jp/waka/i370-001-056> <http://waka.kgraph.jp/kgraph-waka#kanji> "まきの葉はさそなつれなき秋の比しらぬ山路の夕しくれかな" .
+<http://waka.kgraph.jp/collection/月卿雲客妬歌合　> <http://waka.kgraph.jp/kgraph-waka#sentenceId> "i370-001-005" .
+<http://waka.kgraph.jp/waka/i370-001-049> <http://purl.org/dc/elements/1.1/creator> <http://waka.kgraph.jp/author/未入力> .
+<http://waka.kgraph.jp/collection/月卿雲客妬歌合　> <http://waka.kgraph.jp/kgraph-waka#sentenceId> "i370-001-056" .
+<http://waka.kgraph.jp/waka/i370-001-051> <http://waka.kgraph.jp/kgraph-waka#yearBegin> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-015> <http://waka.kgraph.jp/kgraph-waka#yearEnd> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-052> <http://waka.kgraph.jp/kgraph-waka#kana> "むらくもは−かせもふきあへす−かつらきや−たかまのおくも−しくれすくらし" .
+<http://waka.kgraph.jp/waka/i370-001-003> <http://www.w3.org/2002/07/owl#sameAs> <https://lapis.nichibun.ac.jp/waka/waka_i370.html#i370-001-003> .
+<http://waka.kgraph.jp/waka/i370-001-038> <http://waka.kgraph.jp/kgraph-waka#sentenceNumber> "00039" .
+<http://waka.kgraph.jp/collection/月卿雲客妬歌合　> <http://waka.kgraph.jp/kgraph-waka#sentenceId> "i370-001-021" .
+<http://waka.kgraph.jp/waka/i370-001-040> <http://www.w3.org/2002/07/owl#sameAs> <https://lapis.nichibun.ac.jp/waka/waka_i370.html#i370-001-040> .
+<http://waka.kgraph.jp/waka/i370-001-053> <http://waka.kgraph.jp/kgraph-waka#kana> "しくれする−いろこそみえね−まきもくの−あなしのやまに−しかはなくなり" .
+<http://waka.kgraph.jp/waka/i370-001-032> <http://waka.kgraph.jp/kgraph-waka#sentenceNumber> "00033" .
+<http://waka.kgraph.jp/waka/i370-001-032> <http://waka.kgraph.jp/kgraph-waka#yearBegin> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-032> <http://waka.kgraph.jp/kgraph-waka#kana> "あさちふや−うらむるそての−あさきりに−たれゆゑとてか−うつらなくらむ" .
+<http://waka.kgraph.jp/waka/i370-001-006> <http://waka.kgraph.jp/kgraph-waka#kanji> "秋の色のさそふ水あらはとおもひける紅葉をなかすうちの川なみ" .
+<http://waka.kgraph.jp/waka/i370-001-046> <http://waka.kgraph.jp/kgraph-waka#kanji> "雲かかるみやまのおくの雨そそきあまりになれてさひしともなし" .
+<http://waka.kgraph.jp/waka/i370-001-013> <http://waka.kgraph.jp/kgraph-waka#kanji> "木すゑにはおともあらしのたつた河なほあきふかき水の色かな" .
+<http://waka.kgraph.jp/waka/i370-001-037> <http://waka.kgraph.jp/kgraph-waka#kanji> "濁り江におもふ心はふかけれと人こそしらねにほの下みち" .
+<http://waka.kgraph.jp/waka/i370-001-003> <http://waka.kgraph.jp/kgraph-waka#kanji> "もみち葉やよとますうかふあすか川なかれてはやき秋の日かすに" .
+<http://waka.kgraph.jp/waka/i370-001-008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://waka.kgraph.jp/kgraph-waka#waka> .
+<http://waka.kgraph.jp/waka/i370-001-041> <http://waka.kgraph.jp/kgraph-waka#sentenceNumber> "00042" .
+<http://waka.kgraph.jp/waka/i370-001-018> <http://waka.kgraph.jp/kgraph-waka#yearBegin> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-044> <http://www.w3.org/2002/07/owl#sameAs> <https://lapis.nichibun.ac.jp/waka/waka_i370.html#i370-001-044> .
+<http://waka.kgraph.jp/waka/i370-001-057> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://waka.kgraph.jp/kgraph-waka#waka> .
+<http://waka.kgraph.jp/waka/i370-001-003> <http://waka.kgraph.jp/kgraph-waka#sentenceNumber> "00003" .
+<http://waka.kgraph.jp/waka/i370-001-001> <http://waka.kgraph.jp/kgraph-waka#sentenceNumber> "00001" .
+<http://waka.kgraph.jp/waka/i370-001-035> <http://waka.kgraph.jp/kgraph-waka#selected> <http://waka.kgraph.jp/collection/月卿雲客妬歌合　> .
+<http://waka.kgraph.jp/waka/i370-001-021> <http://www.w3.org/2002/07/owl#sameAs> <https://lapis.nichibun.ac.jp/waka/waka_i370.html#i370-001-021> .
+<http://waka.kgraph.jp/waka/i370-001-006> <http://www.w3.org/2002/07/owl#sameAs> <https://lapis.nichibun.ac.jp/waka/waka_i370.html#i370-001-006> .
+<http://waka.kgraph.jp/waka/i370-001-017> <http://waka.kgraph.jp/kgraph-waka#sentenceNumber> "00018" .
+<http://waka.kgraph.jp/waka/i370-001-033> <http://waka.kgraph.jp/kgraph-waka#kanji> "あさちふやうらむる袖の朝きりに誰ゆゑとてか鶉なくらむ" .
+<http://waka.kgraph.jp/waka/i370-001-015> <http://waka.kgraph.jp/kgraph-waka#authorNumber> "xxx" .
+<http://waka.kgraph.jp/waka/i370-001-014> <http://purl.org/dc/elements/1.1/creator> <http://waka.kgraph.jp/author/未入力> .
+<http://waka.kgraph.jp/waka/i370-001-024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://waka.kgraph.jp/kgraph-waka#waka> .
+<http://waka.kgraph.jp/collection/月卿雲客妬歌合　> <http://waka.kgraph.jp/kgraph-waka#sentenceId> "i370-001-016" .
+<http://waka.kgraph.jp/waka/i370-001-051> <http://waka.kgraph.jp/kgraph-waka#yearEnd> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-052> <http://waka.kgraph.jp/kgraph-waka#selected> <http://waka.kgraph.jp/collection/月卿雲客妬歌合　> .
+<http://waka.kgraph.jp/waka/i370-001-006> <http://waka.kgraph.jp/kgraph-waka#authorNumber> "xxx" .
+<http://waka.kgraph.jp/waka/i370-001-011> <http://waka.kgraph.jp/kgraph-waka#selected> <http://waka.kgraph.jp/collection/月卿雲客妬歌合　> .
+<http://waka.kgraph.jp/waka/i370-001-021> <http://waka.kgraph.jp/kgraph-waka#authorNumber> "xxx" .
+<http://waka.kgraph.jp/waka/i370-001-010> <http://waka.kgraph.jp/kgraph-waka#yearEnd> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-012> <http://waka.kgraph.jp/kgraph-waka#variantNumber> "None" .
+<http://waka.kgraph.jp/waka/i370-001-001> <http://waka.kgraph.jp/kgraph-waka#kanji> "ふる里のさほの河水いかならむははそのいろは風ものこらす" .
+<http://waka.kgraph.jp/collection/月卿雲客妬歌合　> <http://waka.kgraph.jp/kgraph-waka#sentenceId> "i370-001-019" .
+<http://waka.kgraph.jp/waka/i370-001-051> <http://waka.kgraph.jp/kgraph-waka#authorNumber> "xxx" .
+<http://waka.kgraph.jp/waka/i370-001-025> <http://waka.kgraph.jp/kgraph-waka#kana> "たつのゐる−あしへのしほの−いやましに−そてほすひまも−なくなくそふる" .
+<http://waka.kgraph.jp/waka/i370-001-030> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://waka.kgraph.jp/kgraph-waka#waka> .
+<http://waka.kgraph.jp/waka/i370-001-001> <http://waka.kgraph.jp/kgraph-waka#variantNumber> "None" .
+<http://waka.kgraph.jp/waka/i370-001-026> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://waka.kgraph.jp/kgraph-waka#waka> .
+<http://waka.kgraph.jp/waka/i370-001-003> <http://waka.kgraph.jp/kgraph-waka#yearEnd> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-002> <http://waka.kgraph.jp/kgraph-waka#variantNumber> "None" .
+<http://waka.kgraph.jp/waka/i370-001-012> <http://waka.kgraph.jp/kgraph-waka#yearEnd> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-018> <http://waka.kgraph.jp/kgraph-waka#yearEnd> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-012> <http://waka.kgraph.jp/kgraph-waka#kanji> "竜田山あらしの空の夕しくれ川せのなみの色も染めけり" .
+<http://waka.kgraph.jp/waka/i370-001-039> <http://waka.kgraph.jp/kgraph-waka#yearBegin> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-047> <http://waka.kgraph.jp/kgraph-waka#variantNumber> "None" .
+<http://waka.kgraph.jp/waka/i370-001-023> <http://purl.org/dc/elements/1.1/creator> <http://waka.kgraph.jp/author/未入力> .
+<http://waka.kgraph.jp/waka/i370-001-040> <http://waka.kgraph.jp/kgraph-waka#kana> "つれつれの−なかめもいまや−まさきちる−みやまのあきの−むらさめのそら" .
+<http://waka.kgraph.jp/waka/i370-001-037> <http://waka.kgraph.jp/kgraph-waka#variantNumber> "None" .
+<http://waka.kgraph.jp/waka/i370-001-010> <http://waka.kgraph.jp/kgraph-waka#authorNumber> "xxx" .
+<http://waka.kgraph.jp/waka/i370-001-022> <http://waka.kgraph.jp/kgraph-waka#yearBegin> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-027> <http://waka.kgraph.jp/kgraph-waka#authorNumber> "xxx" .
+<http://waka.kgraph.jp/waka/i370-001-036> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://waka.kgraph.jp/kgraph-waka#waka> .
+<http://waka.kgraph.jp/waka/i370-001-019> <http://purl.org/dc/elements/1.1/creator> <http://waka.kgraph.jp/author/未入力> .
+<http://waka.kgraph.jp/waka/i370-001-031> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://waka.kgraph.jp/kgraph-waka#waka> .
+<http://waka.kgraph.jp/waka/i370-001-003> <http://waka.kgraph.jp/kgraph-waka#authorNumber> "xxx" .
+<http://waka.kgraph.jp/waka/i370-001-031> <http://waka.kgraph.jp/kgraph-waka#sentenceNumber> "00032" .
+<http://waka.kgraph.jp/waka/i370-001-010> <http://waka.kgraph.jp/kgraph-waka#sentenceNumber> "00011" .
+<http://waka.kgraph.jp/waka/i370-001-018> <http://waka.kgraph.jp/kgraph-waka#authorNumber> "xxx" .
+<http://waka.kgraph.jp/waka/i370-001-020> <http://waka.kgraph.jp/kgraph-waka#variantNumber> "None" .
+<http://waka.kgraph.jp/waka/i370-001-008> <http://waka.kgraph.jp/kgraph-waka#yearBegin> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-009> <http://purl.org/dc/elements/1.1/creator> <http://waka.kgraph.jp/author/未入力> .
+<http://waka.kgraph.jp/collection/月卿雲客妬歌合　> <http://waka.kgraph.jp/kgraph-waka#sentenceId> "i370-001-001" .
+<http://waka.kgraph.jp/waka/i370-001-034> <http://waka.kgraph.jp/kgraph-waka#yearEnd> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-039> <http://waka.kgraph.jp/kgraph-waka#sentenceNumber> "00040" .
+<http://waka.kgraph.jp/waka/i370-001-042> <http://waka.kgraph.jp/kgraph-waka#variantNumber> "None" .
+<http://waka.kgraph.jp/waka/i370-001-058> <http://purl.org/dc/elements/1.1/creator> <http://waka.kgraph.jp/author/未入力> .
+<http://waka.kgraph.jp/waka/i370-001-046> <http://www.w3.org/2002/07/owl#sameAs> <https://lapis.nichibun.ac.jp/waka/waka_i370.html#i370-001-046> .
+<http://waka.kgraph.jp/waka/i370-001-035> <http://waka.kgraph.jp/kgraph-waka#kanji> "わひつつもさよやふけひの浦千鳥なくねあとなき袖の月かな" .
+<http://waka.kgraph.jp/waka/i370-001-021> <http://waka.kgraph.jp/kgraph-waka#sentenceNumber> "00022" .
+<http://waka.kgraph.jp/waka/i370-001-022> <http://www.w3.org/2002/07/owl#sameAs> <https://lapis.nichibun.ac.jp/waka/waka_i370.html#i370-001-022> .
+<http://waka.kgraph.jp/waka/i370-001-034> <http://waka.kgraph.jp/kgraph-waka#authorNumber> "xxx" .
+<http://waka.kgraph.jp/waka/i370-001-059> <http://purl.org/dc/elements/1.1/creator> <http://waka.kgraph.jp/author/未入力> .
+<http://waka.kgraph.jp/waka/i370-001-024> <http://waka.kgraph.jp/kgraph-waka#sentenceNumber> "00025" .
+<http://waka.kgraph.jp/waka/i370-001-039> <http://waka.kgraph.jp/kgraph-waka#yearEnd> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-048> <http://waka.kgraph.jp/kgraph-waka#variantNumber> "None" .
+<http://waka.kgraph.jp/waka/i370-001-019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://waka.kgraph.jp/kgraph-waka#waka> .
+<http://waka.kgraph.jp/author/未入力> <http://waka.kgraph.jp/kgraph-waka#name> "未入力" .
+<http://waka.kgraph.jp/waka/i370-001-024> <http://waka.kgraph.jp/kgraph-waka#yearBegin> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-033> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://waka.kgraph.jp/kgraph-waka#waka> .
+<http://waka.kgraph.jp/waka/i370-001-037> <http://www.w3.org/2002/07/owl#sameAs> <https://lapis.nichibun.ac.jp/waka/waka_i370.html#i370-001-037> .
+<http://waka.kgraph.jp/waka/i370-001-044> <http://purl.org/dc/elements/1.1/creator> <http://waka.kgraph.jp/author/未入力> .
+<http://waka.kgraph.jp/waka/i370-001-048> <http://waka.kgraph.jp/kgraph-waka#kanji> "うきなから我か身世にふるしくれよりあきいろふかき山のおくかな" .
+<http://waka.kgraph.jp/waka/i370-001-045> <http://waka.kgraph.jp/kgraph-waka#kana> "くもかかる−みやまのおくの−あまそそき−あまりになれて−さひしともなし" .
+<http://waka.kgraph.jp/waka/i370-001-023> <http://waka.kgraph.jp/kgraph-waka#kanji> "あふさかのゆふつけとりの声たててたのめぬ人の行きをそまつ" .
+<http://waka.kgraph.jp/waka/i370-001-016> <http://waka.kgraph.jp/kgraph-waka#selected> <http://waka.kgraph.jp/collection/月卿雲客妬歌合　> .
+<http://waka.kgraph.jp/waka/i370-001-022> <http://waka.kgraph.jp/kgraph-waka#yearEnd> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-037> <http://purl.org/dc/elements/1.1/creator> <http://waka.kgraph.jp/author/未入力> .
+<http://waka.kgraph.jp/waka/i370-001-004> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://waka.kgraph.jp/kgraph-waka#waka> .
+<http://waka.kgraph.jp/waka/i370-001-048> <http://waka.kgraph.jp/kgraph-waka#yearEnd> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-054> <http://waka.kgraph.jp/kgraph-waka#yearEnd> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://waka.kgraph.jp/kgraph-waka#waka> .
+<http://waka.kgraph.jp/waka/i370-001-045> <http://waka.kgraph.jp/kgraph-waka#selected> <http://waka.kgraph.jp/collection/月卿雲客妬歌合　> .
+<http://waka.kgraph.jp/waka/i370-001-046> <http://waka.kgraph.jp/kgraph-waka#selected> <http://waka.kgraph.jp/collection/月卿雲客妬歌合　> .
+<http://waka.kgraph.jp/waka/i370-001-026> <http://waka.kgraph.jp/kgraph-waka#kana> "なみたのみ−しきのはねかき−かきわひて−こぬよのかすや−そてのかたしき" .
+<http://waka.kgraph.jp/waka/i370-001-017> <http://waka.kgraph.jp/kgraph-waka#selected> <http://waka.kgraph.jp/collection/月卿雲客妬歌合　> .
+<http://waka.kgraph.jp/collection/月卿雲客妬歌合　> <http://waka.kgraph.jp/kgraph-waka#sentenceId> "i370-001-050" .
+<http://waka.kgraph.jp/waka/i370-001-055> <http://purl.org/dc/elements/1.1/creator> <http://waka.kgraph.jp/author/未入力> .
+<http://waka.kgraph.jp/waka/i370-001-030> <http://waka.kgraph.jp/kgraph-waka#yearBegin> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-028> <http://waka.kgraph.jp/kgraph-waka#variantNumber> "None" .
+<http://waka.kgraph.jp/waka/i370-001-008> <http://waka.kgraph.jp/kgraph-waka#yearEnd> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-022> <http://waka.kgraph.jp/kgraph-waka#authorNumber> "xxx" .
+<http://waka.kgraph.jp/waka/i370-001-054> <http://waka.kgraph.jp/kgraph-waka#authorNumber> "xxx" .
+<http://waka.kgraph.jp/collection/月卿雲客妬歌合　> <http://waka.kgraph.jp/kgraph-waka#sentenceId> "i370-001-033" .
+<http://waka.kgraph.jp/waka/i370-001-013> <http://waka.kgraph.jp/kgraph-waka#yearEnd> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-049> <http://waka.kgraph.jp/kgraph-waka#variantNumber> "None" .
+<http://waka.kgraph.jp/waka/i370-001-056> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://waka.kgraph.jp/kgraph-waka#waka> .
+<http://waka.kgraph.jp/waka/i370-001-011> <http://waka.kgraph.jp/kgraph-waka#kanji> "山おろし吹きにし日より音羽川もみちによとむ瀬瀬のしら浪" .
+<http://waka.kgraph.jp/waka/i370-001-015> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://waka.kgraph.jp/kgraph-waka#waka> .
+<http://waka.kgraph.jp/waka/i370-001-044> <http://waka.kgraph.jp/kgraph-waka#selected> <http://waka.kgraph.jp/collection/月卿雲客妬歌合　> .
+<http://waka.kgraph.jp/waka/i370-001-032> <http://waka.kgraph.jp/kgraph-waka#authorNumber> "xxx" .
+<http://waka.kgraph.jp/waka/i370-001-014> <http://waka.kgraph.jp/kgraph-waka#yearBegin> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-036> <http://waka.kgraph.jp/kgraph-waka#yearBegin> "1214" .
+<http://waka.kgraph.jp/collection/月卿雲客妬歌合　> <http://waka.kgraph.jp/kgraph-waka#sentenceId> "i370-001-002" .
+<http://waka.kgraph.jp/waka/i370-001-031> <http://waka.kgraph.jp/kgraph-waka#kanji> "おもひやるふかき心はとふ鳥の声たにもせぬ山のゆふくれ" .
+<http://waka.kgraph.jp/waka/i370-001-047> <http://waka.kgraph.jp/kgraph-waka#kana> "うきなから−わかみよにふる−しくれより−あきいろふかき−やまのおくかな" .
+<http://waka.kgraph.jp/waka/i370-001-013> <http://waka.kgraph.jp/kgraph-waka#authorNumber> "xxx" .
+<http://waka.kgraph.jp/waka/i370-001-023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://waka.kgraph.jp/kgraph-waka#waka> .
+<http://waka.kgraph.jp/waka/i370-001-025> <http://waka.kgraph.jp/kgraph-waka#variantNumber> "None" .
+<http://waka.kgraph.jp/waka/i370-001-052> <http://waka.kgraph.jp/kgraph-waka#variantNumber> "None" .
+<http://waka.kgraph.jp/collection/月卿雲客妬歌合　> <http://waka.kgraph.jp/kgraph-waka#sentenceId> "i370-001-024" .
+<http://waka.kgraph.jp/waka/i370-001-054> <http://waka.kgraph.jp/kgraph-waka#sentenceNumber> "00055" .
+<http://waka.kgraph.jp/waka/i370-001-005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://waka.kgraph.jp/kgraph-waka#waka> .
+<http://waka.kgraph.jp/waka/i370-001-043> <http://waka.kgraph.jp/kgraph-waka#variantNumber> "None" .
+<http://waka.kgraph.jp/waka/i370-001-028> <http://waka.kgraph.jp/kgraph-waka#kana> "うしやなほ−とほやまとりの−ひとりのみ−なかきおもひに−あかぬよのそて" .
+<http://waka.kgraph.jp/waka/i370-001-021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://waka.kgraph.jp/kgraph-waka#waka> .
+<http://waka.kgraph.jp/waka/i370-001-027> <http://waka.kgraph.jp/kgraph-waka#kana> "くさもきも−うつろふあきの−みやまとり−ひとりやねなむ−しもしろきよを" .
+<http://waka.kgraph.jp/waka/i370-001-031> <http://waka.kgraph.jp/kgraph-waka#yearBegin> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-052> <http://waka.kgraph.jp/kgraph-waka#kanji> "あし引の山はよし野のおくの庵しくるる空はとふ人もなし" .
+<http://waka.kgraph.jp/waka/i370-001-057> <http://waka.kgraph.jp/kgraph-waka#yearBegin> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-045> <http://purl.org/dc/elements/1.1/creator> <http://waka.kgraph.jp/author/未入力> .
+<http://waka.kgraph.jp/waka/i370-001-042> <http://waka.kgraph.jp/kgraph-waka#sentenceNumber> "00043" .
+<http://waka.kgraph.jp/waka/i370-001-043> <http://waka.kgraph.jp/kgraph-waka#yearEnd> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-027> <http://waka.kgraph.jp/kgraph-waka#sentenceNumber> "00028" .
+<http://waka.kgraph.jp/waka/i370-001-023> <http://waka.kgraph.jp/kgraph-waka#yearBegin> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-024> <http://waka.kgraph.jp/kgraph-waka#authorNumber> "xxx" .
+<http://waka.kgraph.jp/waka/i370-001-030> <http://waka.kgraph.jp/kgraph-waka#yearEnd> "1214" .
+<http://waka.kgraph.jp/collection/月卿雲客妬歌合　> <http://waka.kgraph.jp/kgraph-waka#sentenceId> "i370-001-046" .
+<http://waka.kgraph.jp/waka/i370-001-005> <http://waka.kgraph.jp/kgraph-waka#yearBegin> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-051> <http://waka.kgraph.jp/kgraph-waka#kanji> "この比は紅葉をそむるしくれのみふるの山みちたれかよふらむ" .
+<http://waka.kgraph.jp/waka/i370-001-002> <http://purl.org/dc/elements/1.1/creator> <http://waka.kgraph.jp/author/未入力> .
+<http://waka.kgraph.jp/waka/i370-001-010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://waka.kgraph.jp/kgraph-waka#waka> .
+<http://waka.kgraph.jp/waka/i370-001-019> <http://waka.kgraph.jp/kgraph-waka#yearBegin> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-047> <http://purl.org/dc/elements/1.1/creator> <http://waka.kgraph.jp/author/未入力> .
+<http://waka.kgraph.jp/waka/i370-001-004> <http://waka.kgraph.jp/kgraph-waka#kanji> "あすか川ゆくせもふかき紅葉はにきのふの浪も色かはりけり" .
+<http://waka.kgraph.jp/waka/i370-001-043> <http://waka.kgraph.jp/kgraph-waka#authorNumber> "xxx" .
+<http://waka.kgraph.jp/waka/i370-001-036> <http://waka.kgraph.jp/kgraph-waka#yearEnd> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-030> <http://waka.kgraph.jp/kgraph-waka#authorNumber> "xxx" .
+<http://waka.kgraph.jp/collection/月卿雲客妬歌合　> <http://waka.kgraph.jp/kgraph-waka#sentenceId> "i370-001-028" .
+<http://waka.kgraph.jp/waka/i370-001-039> <http://waka.kgraph.jp/kgraph-waka#authorNumber> "xxx" .
+<http://waka.kgraph.jp/waka/i370-001-041> <http://purl.org/dc/elements/1.1/creator> <http://waka.kgraph.jp/author/未入力> .
+<http://waka.kgraph.jp/waka/i370-001-004> <http://waka.kgraph.jp/kgraph-waka#kana> "あすかかは−ゆくせもふかき−もみちはに−きのふのなみも−いろかはりけり" .
+<http://waka.kgraph.jp/waka/i370-001-020> <http://purl.org/dc/elements/1.1/creator> <http://waka.kgraph.jp/author/未入力> .
+<http://waka.kgraph.jp/waka/i370-001-043> <http://waka.kgraph.jp/kgraph-waka#kanji> "つきにたにとはれん山としらさりきしをりのおくの雨のゆふ暮" .
+<http://waka.kgraph.jp/waka/i370-001-050> <http://waka.kgraph.jp/kgraph-waka#sentenceNumber> "00051" .
+<http://waka.kgraph.jp/waka/i370-001-014> <http://waka.kgraph.jp/kgraph-waka#authorNumber> "xxx" .
+<http://waka.kgraph.jp/waka/i370-001-003> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://waka.kgraph.jp/kgraph-waka#waka> .
+<http://waka.kgraph.jp/waka/i370-001-036> <http://waka.kgraph.jp/kgraph-waka#authorNumber> "xxx" .
+<http://waka.kgraph.jp/waka/i370-001-056> <http://waka.kgraph.jp/kgraph-waka#yearBegin> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-042> <http://purl.org/dc/elements/1.1/creator> <http://waka.kgraph.jp/author/未入力> .
+<http://waka.kgraph.jp/waka/i370-001-035> <http://waka.kgraph.jp/kgraph-waka#variantNumber> "None" .
+<http://waka.kgraph.jp/waka/i370-001-038> <http://waka.kgraph.jp/kgraph-waka#selected> <http://waka.kgraph.jp/collection/月卿雲客妬歌合　> .
+<http://waka.kgraph.jp/waka/i370-001-059> <http://waka.kgraph.jp/kgraph-waka#kana> "しをりせし−やまちをうつむ−くもにまた−このはふりそふ−あきのむらさめ" .
+<http://waka.kgraph.jp/waka/i370-001-002> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://waka.kgraph.jp/kgraph-waka#waka> .
+<http://waka.kgraph.jp/collection/月卿雲客妬歌合　> <http://waka.kgraph.jp/kgraph-waka#sentenceId> "i370-001-057" .
+<http://waka.kgraph.jp/waka/i370-001-010> <http://waka.kgraph.jp/kgraph-waka#kana> "やまおろし−ふきにしひより−おとはかは−もみちによとむ−せせのしらなみ" .
+<http://waka.kgraph.jp/waka/i370-001-008> <http://waka.kgraph.jp/kgraph-waka#authorNumber> "xxx" .
+<http://waka.kgraph.jp/waka/i370-001-027> <http://waka.kgraph.jp/kgraph-waka#selected> <http://waka.kgraph.jp/collection/月卿雲客妬歌合　> .
+<http://waka.kgraph.jp/waka/i370-001-024> <http://www.w3.org/2002/07/owl#sameAs> <https://lapis.nichibun.ac.jp/waka/waka_i370.html#i370-001-024> .
+<http://waka.kgraph.jp/waka/i370-001-036> <http://waka.kgraph.jp/kgraph-waka#sentenceNumber> "00037" .
+<http://waka.kgraph.jp/waka/i370-001-053> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://waka.kgraph.jp/kgraph-waka#waka> .
+<http://waka.kgraph.jp/waka/i370-001-016> <http://waka.kgraph.jp/kgraph-waka#variantNumber> "None" .
+<http://waka.kgraph.jp/waka/i370-001-034> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://waka.kgraph.jp/kgraph-waka#waka> .
+<http://waka.kgraph.jp/waka/i370-001-058> <http://waka.kgraph.jp/kgraph-waka#variantNumber> "None" .
+<http://waka.kgraph.jp/waka/i370-001-057> <http://www.w3.org/2002/07/owl#sameAs> <https://lapis.nichibun.ac.jp/waka/waka_i370.html#i370-001-057> .
+<http://waka.kgraph.jp/waka/i370-001-011> <http://waka.kgraph.jp/kgraph-waka#variantNumber> "None" .
+<http://waka.kgraph.jp/waka/i370-001-046> <http://waka.kgraph.jp/kgraph-waka#variantNumber> "None" .
+<http://waka.kgraph.jp/waka/i370-001-014> <http://waka.kgraph.jp/kgraph-waka#yearEnd> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-058> <http://waka.kgraph.jp/kgraph-waka#yearEnd> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-019> <http://waka.kgraph.jp/kgraph-waka#authorNumber> "xxx" .
+<http://waka.kgraph.jp/waka/i370-001-002> <http://waka.kgraph.jp/kgraph-waka#kana> "かみなひの−やまのあらしや−たつたかは−みつのあきのみ−ふかきころかな" .
+<http://waka.kgraph.jp/waka/i370-001-033> <http://waka.kgraph.jp/kgraph-waka#yearBegin> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-008> <http://www.w3.org/2002/07/owl#sameAs> <https://lapis.nichibun.ac.jp/waka/waka_i370.html#i370-001-008> .
+<http://waka.kgraph.jp/waka/i370-001-038> <http://waka.kgraph.jp/kgraph-waka#kana> "はかなしや−ゆめちたえゆく−とりのねに−なきてわかれし−ひとのおもかけ" .
+<http://waka.kgraph.jp/waka/i370-001-006> <http://waka.kgraph.jp/kgraph-waka#selected> <http://waka.kgraph.jp/collection/月卿雲客妬歌合　> .
+<http://waka.kgraph.jp/waka/i370-001-004> <http://waka.kgraph.jp/kgraph-waka#yearBegin> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://waka.kgraph.jp/kgraph-waka#waka> .
+<http://waka.kgraph.jp/waka/i370-001-048> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://waka.kgraph.jp/kgraph-waka#waka> .
+<http://waka.kgraph.jp/waka/i370-001-013> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://waka.kgraph.jp/kgraph-waka#waka> .
+<http://waka.kgraph.jp/waka/i370-001-031> <http://waka.kgraph.jp/kgraph-waka#yearEnd> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://waka.kgraph.jp/kgraph-waka#waka> .
+<http://waka.kgraph.jp/waka/i370-001-057> <http://waka.kgraph.jp/kgraph-waka#kanji> "けふも又露わけ衣ほしあへていくむらさめかみくま野の山" .
+<http://waka.kgraph.jp/waka/i370-001-014> <http://www.w3.org/2002/07/owl#sameAs> <https://lapis.nichibun.ac.jp/waka/waka_i370.html#i370-001-014> .
+<http://waka.kgraph.jp/waka/i370-001-010> <http://waka.kgraph.jp/kgraph-waka#yearBegin> "1214" .
+<http://waka.kgraph.jp/collection/月卿雲客妬歌合　> <http://waka.kgraph.jp/kgraph-waka#sentenceId> "i370-001-012" .
+<http://waka.kgraph.jp/waka/i370-001-056> <http://waka.kgraph.jp/kgraph-waka#authorNumber> "xxx" .
+<http://waka.kgraph.jp/waka/i370-001-023> <http://waka.kgraph.jp/kgraph-waka#yearEnd> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-055> <http://waka.kgraph.jp/kgraph-waka#variantNumber> "None" .
+<http://waka.kgraph.jp/waka/i370-001-003> <http://waka.kgraph.jp/kgraph-waka#yearBegin> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-059> <http://www.w3.org/2002/07/owl#sameAs> <https://lapis.nichibun.ac.jp/waka/waka_i370.html#i370-001-059> .
+<http://waka.kgraph.jp/waka/i370-001-007> <http://waka.kgraph.jp/kgraph-waka#sentenceNumber> "00008" .
+<http://waka.kgraph.jp/waka/i370-001-023> <http://www.w3.org/2002/07/owl#sameAs> <https://lapis.nichibun.ac.jp/waka/waka_i370.html#i370-001-023> .
+<http://waka.kgraph.jp/waka/i370-001-031> <http://waka.kgraph.jp/kgraph-waka#authorNumber> "xxx" .
+<http://waka.kgraph.jp/waka/i370-001-019> <http://waka.kgraph.jp/kgraph-waka#yearEnd> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-001> <http://waka.kgraph.jp/kgraph-waka#kana> "ふるさとの−さほのかはみつ−いかならむ−ははそのいろは−かせものこらす" .
+<http://waka.kgraph.jp/waka/i370-001-020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://waka.kgraph.jp/kgraph-waka#waka> .
+<http://waka.kgraph.jp/collection/月卿雲客妬歌合　> <http://waka.kgraph.jp/kgraph-waka#sentenceId> "i370-001-010" .
+<http://waka.kgraph.jp/waka/i370-001-010> <http://www.w3.org/2002/07/owl#sameAs> <https://lapis.nichibun.ac.jp/waka/waka_i370.html#i370-001-010> .
+<http://waka.kgraph.jp/waka/i370-001-008> <http://waka.kgraph.jp/kgraph-waka#kanji> "見わたせは秋かせなかるたつた河ちるやみむろの山の木葉に" .
+<http://waka.kgraph.jp/waka/i370-001-033> <http://waka.kgraph.jp/kgraph-waka#yearEnd> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-053> <http://waka.kgraph.jp/kgraph-waka#yearBegin> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-007> <http://waka.kgraph.jp/kgraph-waka#selected> <http://waka.kgraph.jp/collection/月卿雲客妬歌合　> .
+<http://waka.kgraph.jp/waka/i370-001-057> <http://waka.kgraph.jp/kgraph-waka#sentenceNumber> "00058" .
+<http://waka.kgraph.jp/waka/i370-001-012> <http://www.w3.org/2002/07/owl#sameAs> <https://lapis.nichibun.ac.jp/waka/waka_i370.html#i370-001-012> .
+<http://waka.kgraph.jp/waka/i370-001-021> <http://waka.kgraph.jp/kgraph-waka#yearBegin> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-004> <http://waka.kgraph.jp/kgraph-waka#yearEnd> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-002> <http://waka.kgraph.jp/kgraph-waka#sentenceNumber> "00002" .
+<http://waka.kgraph.jp/waka/i370-001-039> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://waka.kgraph.jp/kgraph-waka#waka> .
+<http://waka.kgraph.jp/waka/i370-001-035> <http://waka.kgraph.jp/kgraph-waka#kana> "ものおもへは−よそにはきかす−さよちとり−うらみてかへる−あかつきのこゑ" .
+<http://waka.kgraph.jp/waka/i370-001-002> <http://www.w3.org/2002/07/owl#sameAs> <https://lapis.nichibun.ac.jp/waka/waka_i370.html#i370-001-002> .
+<http://waka.kgraph.jp/waka/i370-001-009> <http://waka.kgraph.jp/kgraph-waka#yearEnd> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-044> <http://waka.kgraph.jp/kgraph-waka#variantNumber> "None" .
+<http://waka.kgraph.jp/waka/i370-001-045> <http://waka.kgraph.jp/kgraph-waka#variantNumber> "None" .
+<http://waka.kgraph.jp/collection/月卿雲客妬歌合　> <http://waka.kgraph.jp/kgraph-waka#sentenceId> "i370-001-053" .
+<http://waka.kgraph.jp/waka/i370-001-042> <http://waka.kgraph.jp/kgraph-waka#yearBegin> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://waka.kgraph.jp/kgraph-waka#waka> .
+<http://waka.kgraph.jp/waka/i370-001-054> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://waka.kgraph.jp/kgraph-waka#waka> .
+<http://waka.kgraph.jp/waka/i370-001-033> <http://waka.kgraph.jp/kgraph-waka#authorNumber> "xxx" .
+<http://waka.kgraph.jp/waka/i370-001-047> <http://waka.kgraph.jp/kgraph-waka#kanji> "よし野山さむきあらしの吹くままに木の葉こきませうちしくれつつ" .
+<http://waka.kgraph.jp/waka/i370-001-050> <http://www.w3.org/2002/07/owl#sameAs> <https://lapis.nichibun.ac.jp/waka/waka_i370.html#i370-001-050> .
+<http://waka.kgraph.jp/waka/i370-001-042> <http://waka.kgraph.jp/kgraph-waka#kanji> "ふみまよひたつきもしらぬ山人の袖もしをりの雨のゆふ暮" .
+<http://waka.kgraph.jp/waka/i370-001-059> <http://waka.kgraph.jp/kgraph-waka#variantNumber> "None" .
+<http://waka.kgraph.jp/waka/i370-001-004> <http://waka.kgraph.jp/kgraph-waka#authorNumber> "xxx" .
+<http://waka.kgraph.jp/waka/i370-001-009> <http://waka.kgraph.jp/kgraph-waka#authorNumber> "xxx" .
+<http://waka.kgraph.jp/waka/i370-001-048> <http://www.w3.org/2002/07/owl#sameAs> <https://lapis.nichibun.ac.jp/waka/waka_i370.html#i370-001-048> .
+<http://waka.kgraph.jp/waka/i370-001-014> <http://waka.kgraph.jp/kgraph-waka#kanji> "立田河うつるこのまの色なから秋をそさそふ水のしらなみ" .
+<http://waka.kgraph.jp/waka/i370-001-025> <http://waka.kgraph.jp/kgraph-waka#sentenceNumber> "00026" .
+<http://waka.kgraph.jp/waka/i370-001-035> <http://purl.org/dc/elements/1.1/creator> <http://waka.kgraph.jp/author/未入力> .
+<http://waka.kgraph.jp/waka/i370-001-052> <http://purl.org/dc/elements/1.1/creator> <http://waka.kgraph.jp/author/未入力> .
+<http://waka.kgraph.jp/waka/i370-001-012> <http://waka.kgraph.jp/kgraph-waka#yearBegin> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-048> <http://waka.kgraph.jp/kgraph-waka#yearBegin> "1214" .
+<http://waka.kgraph.jp/collection/月卿雲客妬歌合　> <http://waka.kgraph.jp/kgraph-waka#sentenceId> "i370-001-034" .
+<http://waka.kgraph.jp/waka/i370-001-007> <http://waka.kgraph.jp/kgraph-waka#kanji> "木からしの竜田のもみちもろ共にさそへはさそふ秋の川なみ" .
+<http://waka.kgraph.jp/waka/i370-001-024> <http://waka.kgraph.jp/kgraph-waka#kanji> "とふ鳥のあとみし空にたつ煙たえむおもひのしるへはかなし" .
+<http://waka.kgraph.jp/waka/i370-001-028> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://waka.kgraph.jp/kgraph-waka#waka> .
+<http://waka.kgraph.jp/waka/i370-001-051> <http://waka.kgraph.jp/kgraph-waka#kana> "あしひきの−やまはよしのの−おくのいほ−しくるるそらは−とふひともなし" .
+<http://waka.kgraph.jp/waka/i370-001-049> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://waka.kgraph.jp/kgraph-waka#waka> .
+<http://waka.kgraph.jp/waka/i370-001-007> <http://purl.org/dc/elements/1.1/creator> <http://waka.kgraph.jp/author/未入力> .
+<http://waka.kgraph.jp/waka/i370-001-030> <http://waka.kgraph.jp/kgraph-waka#selected> <http://waka.kgraph.jp/collection/月卿雲客妬歌合　> .
+<http://waka.kgraph.jp/waka/i370-001-053> <http://waka.kgraph.jp/kgraph-waka#yearEnd> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-026> <http://waka.kgraph.jp/kgraph-waka#selected> <http://waka.kgraph.jp/collection/月卿雲客妬歌合　> .
+<http://waka.kgraph.jp/waka/i370-001-032> <http://waka.kgraph.jp/kgraph-waka#selected> <http://waka.kgraph.jp/collection/月卿雲客妬歌合　> .
+<http://waka.kgraph.jp/waka/i370-001-054> <http://waka.kgraph.jp/kgraph-waka#kanji> "しくれする色こそみえねまきもくのあなしの山に鹿はなくなり" .
+<http://waka.kgraph.jp/waka/i370-001-016> <http://purl.org/dc/elements/1.1/creator> <http://waka.kgraph.jp/author/未入力> .
+<http://waka.kgraph.jp/waka/i370-001-001> <http://waka.kgraph.jp/kgraph-waka#yearBegin> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-002> <http://waka.kgraph.jp/kgraph-waka#yearBegin> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-017> <http://waka.kgraph.jp/kgraph-waka#kana> "からにしき−あきのいろをや−たつたかは−このはいさよふ−せせのしらなみ" .
+<http://waka.kgraph.jp/waka/i370-001-011> <http://purl.org/dc/elements/1.1/creator> <http://waka.kgraph.jp/author/未入力> .
+<http://waka.kgraph.jp/waka/i370-001-046> <http://purl.org/dc/elements/1.1/creator> <http://waka.kgraph.jp/author/未入力> .
+<http://waka.kgraph.jp/waka/i370-001-023> <http://waka.kgraph.jp/kgraph-waka#authorNumber> "xxx" .
+<http://waka.kgraph.jp/waka/i370-001-042> <http://waka.kgraph.jp/kgraph-waka#yearEnd> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-053> <http://waka.kgraph.jp/kgraph-waka#authorNumber> "xxx" .
+<http://waka.kgraph.jp/waka/i370-001-025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://waka.kgraph.jp/kgraph-waka#waka> .
+<http://waka.kgraph.jp/waka/i370-001-005> <http://waka.kgraph.jp/kgraph-waka#authorNumber> "xxx" .
+<http://waka.kgraph.jp/waka/i370-001-043> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://waka.kgraph.jp/kgraph-waka#waka> .
+<http://waka.kgraph.jp/waka/i370-001-058> <http://waka.kgraph.jp/kgraph-waka#sentenceNumber> "00059" .
+<http://waka.kgraph.jp/waka/i370-001-042> <http://waka.kgraph.jp/kgraph-waka#authorNumber> "xxx" .
+<http://waka.kgraph.jp/waka/i370-001-030> <http://waka.kgraph.jp/kgraph-waka#kana> "おもひやる−ふかきこころは−とふとりの−こゑたにもせぬ−やまのゆふくれ" .
+<http://waka.kgraph.jp/waka/i370-001-057> <http://waka.kgraph.jp/kgraph-waka#selected> <http://waka.kgraph.jp/collection/月卿雲客妬歌合　> .
+<http://waka.kgraph.jp/waka/i370-001-024> <http://waka.kgraph.jp/kgraph-waka#selected> <http://waka.kgraph.jp/collection/月卿雲客妬歌合　> .
+<http://waka.kgraph.jp/waka/i370-001-043> <http://waka.kgraph.jp/kgraph-waka#sentenceNumber> "00044" .
+<http://waka.kgraph.jp/waka/i370-001-025> <http://waka.kgraph.jp/kgraph-waka#yearBegin> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-043> <http://waka.kgraph.jp/kgraph-waka#yearBegin> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-014> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://waka.kgraph.jp/kgraph-waka#waka> .
+<http://waka.kgraph.jp/waka/i370-001-054> <http://waka.kgraph.jp/kgraph-waka#yearBegin> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-047> <http://waka.kgraph.jp/kgraph-waka#yearEnd> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-049> <http://www.w3.org/2002/07/owl#sameAs> <https://lapis.nichibun.ac.jp/waka/waka_i370.html#i370-001-049> .
+<http://waka.kgraph.jp/collection/月卿雲客妬歌合　> <http://waka.kgraph.jp/kgraph-waka#sentenceId> "i370-001-022" .
+<http://waka.kgraph.jp/waka/i370-001-037> <http://waka.kgraph.jp/kgraph-waka#yearEnd> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-046> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://waka.kgraph.jp/kgraph-waka#waka> .
+<http://waka.kgraph.jp/waka/i370-001-041> <http://waka.kgraph.jp/kgraph-waka#variantNumber> "None" .
+<http://waka.kgraph.jp/waka/i370-001-009> <http://waka.kgraph.jp/kgraph-waka#sentenceNumber> "00010" .
+<http://waka.kgraph.jp/waka/i370-001-040> <http://waka.kgraph.jp/kgraph-waka#variantNumber> "None" .
+<http://waka.kgraph.jp/waka/i370-001-048> <http://waka.kgraph.jp/kgraph-waka#authorNumber> "xxx" .
+<http://waka.kgraph.jp/waka/i370-001-056> <http://www.w3.org/2002/07/owl#sameAs> <https://lapis.nichibun.ac.jp/waka/waka_i370.html#i370-001-056> .
+<http://waka.kgraph.jp/waka/i370-001-041> <http://waka.kgraph.jp/kgraph-waka#yearEnd> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-013> <http://waka.kgraph.jp/kgraph-waka#yearBegin> "1214" .
+<http://waka.kgraph.jp/collection/月卿雲客妬歌合　> <http://waka.kgraph.jp/kgraph-waka#sentenceId> "i370-001-039" .
+<http://waka.kgraph.jp/waka/i370-001-029> <http://waka.kgraph.jp/kgraph-waka#selected> <http://waka.kgraph.jp/collection/月卿雲客妬歌合　> .
+<http://waka.kgraph.jp/waka/i370-001-037> <http://waka.kgraph.jp/kgraph-waka#authorNumber> "xxx" .
+<http://waka.kgraph.jp/waka/i370-001-049> <http://waka.kgraph.jp/kgraph-waka#yearBegin> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-043> <http://waka.kgraph.jp/kgraph-waka#kana> "やまひとの−そてのみいろに−ふるあめの−しつくむなしき−まきのあきかせ" .
+<http://waka.kgraph.jp/waka/i370-001-017> <http://purl.org/dc/elements/1.1/creator> <http://waka.kgraph.jp/author/未入力> .
+<http://waka.kgraph.jp/waka/i370-001-015> <http://waka.kgraph.jp/kgraph-waka#kanji> "山おろしの紅葉吹きおろすたつた河ゆくせにはやき水の秋かな" .
+<http://waka.kgraph.jp/waka/i370-001-002> <http://waka.kgraph.jp/kgraph-waka#authorNumber> "xxx" .
+<http://waka.kgraph.jp/collection/月卿雲客妬歌合　> <http://waka.kgraph.jp/kgraph-waka#sentenceId> "i370-001-041" .
+<http://waka.kgraph.jp/waka/i370-001-031> <http://www.w3.org/2002/07/owl#sameAs> <https://lapis.nichibun.ac.jp/waka/waka_i370.html#i370-001-031> .
+<http://waka.kgraph.jp/waka/i370-001-056> <http://waka.kgraph.jp/kgraph-waka#selected> <http://waka.kgraph.jp/collection/月卿雲客妬歌合　> .
+<http://waka.kgraph.jp/waka/i370-001-028> <http://waka.kgraph.jp/kgraph-waka#yearBegin> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-054> <http://waka.kgraph.jp/kgraph-waka#kana> "とやまたに−さひしきころの−むらさめに−くもよりおくの−あきのゆふくれ" .
+<http://waka.kgraph.jp/waka/i370-001-055> <http://waka.kgraph.jp/kgraph-waka#kana> "まきのはは−さそなつれなき−あきのころ−しらぬやまちの−ゆふしくれかな" .
+<http://waka.kgraph.jp/waka/i370-001-020> <http://waka.kgraph.jp/kgraph-waka#yearBegin> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-036> <http://waka.kgraph.jp/kgraph-waka#kana> "にこりえに−おもふこころは−ふかけれと−ひとこそしらね−にほのしたみち" .
+<http://waka.kgraph.jp/waka/i370-001-025> <http://www.w3.org/2002/07/owl#sameAs> <https://lapis.nichibun.ac.jp/waka/waka_i370.html#i370-001-025> .
+<http://waka.kgraph.jp/waka/i370-001-016> <http://waka.kgraph.jp/kgraph-waka#sentenceNumber> "00017" .
+<http://waka.kgraph.jp/waka/i370-001-049> <http://waka.kgraph.jp/kgraph-waka#kana> "まきのはに−なれてもそはぬ−むらしくれ−いくよむなしき−やまをすくらむ" .
+<http://waka.kgraph.jp/waka/i370-001-058> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://waka.kgraph.jp/kgraph-waka#waka> .
+<http://waka.kgraph.jp/waka/i370-001-023> <http://waka.kgraph.jp/kgraph-waka#selected> <http://waka.kgraph.jp/collection/月卿雲客妬歌合　> .
+<http://waka.kgraph.jp/collection/月卿雲客妬歌合　> <http://waka.kgraph.jp/kgraph-waka#sentenceId> "i370-001-055" .
+<http://waka.kgraph.jp/waka/i370-001-050> <http://waka.kgraph.jp/kgraph-waka#selected> <http://waka.kgraph.jp/collection/月卿雲客妬歌合　> .
+<http://waka.kgraph.jp/waka/i370-001-028> <http://waka.kgraph.jp/kgraph-waka#kanji> "草も木もうつろふ秋のみやま鳥ひとりやねなん霜しろきよを" .
+<http://waka.kgraph.jp/waka/i370-001-038> <http://purl.org/dc/elements/1.1/creator> <http://waka.kgraph.jp/author/未入力> .
+<http://waka.kgraph.jp/waka/i370-001-019> <http://waka.kgraph.jp/kgraph-waka#selected> <http://waka.kgraph.jp/collection/月卿雲客妬歌合　> .
+<http://waka.kgraph.jp/collection/月卿雲客妬歌合　> <http://waka.kgraph.jp/kgraph-waka#sentenceId> "i370-001-035" .
+<http://waka.kgraph.jp/waka/i370-001-001> <http://waka.kgraph.jp/kgraph-waka#yearEnd> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-035> <http://waka.kgraph.jp/kgraph-waka#sentenceNumber> "00036" .
+<http://waka.kgraph.jp/waka/i370-001-002> <http://waka.kgraph.jp/kgraph-waka#yearEnd> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-044> <http://waka.kgraph.jp/kgraph-waka#sentenceNumber> "00045" .
+<http://waka.kgraph.jp/collection/月卿雲客妬歌合　> <http://waka.kgraph.jp/kgraph-waka#sentenceId> "i370-001-054" .
+<http://waka.kgraph.jp/waka/i370-001-049> <http://waka.kgraph.jp/kgraph-waka#yearEnd> "1214" .
+<http://waka.kgraph.jp/collection/月卿雲客妬歌合　> <http://waka.kgraph.jp/kgraph-waka#sentenceId> "i370-001-059" .
+<http://waka.kgraph.jp/waka/i370-001-044> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://waka.kgraph.jp/kgraph-waka#waka> .
+<http://waka.kgraph.jp/waka/i370-001-012> <http://waka.kgraph.jp/kgraph-waka#authorNumber> "xxx" .
+<http://waka.kgraph.jp/collection/月卿雲客妬歌合　> <http://waka.kgraph.jp/kgraph-waka#sentenceId> "i370-001-009" .
+<http://waka.kgraph.jp/waka/i370-001-001> <http://waka.kgraph.jp/kgraph-waka#authorNumber> "xxx" .
+<http://waka.kgraph.jp/waka/i370-001-008> <http://waka.kgraph.jp/kgraph-waka#kana> "たつたかは−なみにのこらぬ−もみちはを−とやまにしのふ−まつかせのこゑ" .
+<http://waka.kgraph.jp/collection/月卿雲客妬歌合　> <http://waka.kgraph.jp/kgraph-waka#sentenceId> "i370-001-011" .
+<http://waka.kgraph.jp/waka/i370-001-026> <http://www.w3.org/2002/07/owl#sameAs> <https://lapis.nichibun.ac.jp/waka/waka_i370.html#i370-001-026> .
+<http://waka.kgraph.jp/waka/i370-001-020> <http://waka.kgraph.jp/kgraph-waka#yearEnd> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-047> <http://waka.kgraph.jp/kgraph-waka#authorNumber> "xxx" .
+<http://waka.kgraph.jp/waka/i370-001-049> <http://waka.kgraph.jp/kgraph-waka#authorNumber> "xxx" .
+<http://waka.kgraph.jp/waka/i370-001-055> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://waka.kgraph.jp/kgraph-waka#waka> .
+<http://waka.kgraph.jp/collection/月卿雲客妬歌合　> <http://waka.kgraph.jp/kgraph-waka#sentenceId> "i370-001-018" .
+<http://waka.kgraph.jp/waka/i370-001-025> <http://waka.kgraph.jp/kgraph-waka#yearEnd> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-042> <http://waka.kgraph.jp/kgraph-waka#kana> "つきにたに−とはれむやまと−しらさりき−しをりのおくの−あめのゆふくれ" .
+<http://waka.kgraph.jp/waka/i370-001-002> <http://waka.kgraph.jp/kgraph-waka#kanji> "神なひの山のあらしやたつた川水のあきのみふかき比かな" .
+<http://waka.kgraph.jp/waka/i370-001-019> <http://waka.kgraph.jp/kgraph-waka#kanji> "立田山木末の秋を浪にとめて紅むすふせせのかはかせ" .
+<http://waka.kgraph.jp/waka/i370-001-004> <http://www.w3.org/2002/07/owl#sameAs> <https://lapis.nichibun.ac.jp/waka/waka_i370.html#i370-001-004> .
+<http://waka.kgraph.jp/waka/i370-001-007> <http://waka.kgraph.jp/kgraph-waka#variantNumber> "None" .
+<http://waka.kgraph.jp/waka/i370-001-041> <http://waka.kgraph.jp/kgraph-waka#authorNumber> "xxx" .
+<http://waka.kgraph.jp/waka/i370-001-020> <http://waka.kgraph.jp/kgraph-waka#authorNumber> "xxx" .
+<http://waka.kgraph.jp/waka/i370-001-006> <http://purl.org/dc/elements/1.1/creator> <http://waka.kgraph.jp/author/未入力> .
+<http://waka.kgraph.jp/waka/i370-001-035> <http://waka.kgraph.jp/kgraph-waka#authorNumber> "xxx" .
+<http://waka.kgraph.jp/waka/i370-001-051> <http://purl.org/dc/elements/1.1/creator> <http://waka.kgraph.jp/author/未入力> .
+<http://waka.kgraph.jp/waka/i370-001-014> <http://waka.kgraph.jp/kgraph-waka#kana> "やまおろしの−もみちふきおろす−たつたかは−ゆくせにはやき−みつのあきかな" .
+<http://waka.kgraph.jp/waka/i370-001-018> <http://waka.kgraph.jp/kgraph-waka#kanji> "からにしき秋の色をやたつた川この葉いさよふせせのしらなみ" .
+<http://waka.kgraph.jp/waka/i370-001-027> <http://waka.kgraph.jp/kgraph-waka#kanji> "涙のみ鴫のはねかきかき侘ひてこぬよのかすや袖のかたしき" .
+<http://waka.kgraph.jp/waka/i370-001-058> <http://waka.kgraph.jp/kgraph-waka#yearBegin> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-027> <http://purl.org/dc/elements/1.1/creator> <http://waka.kgraph.jp/author/未入力> .
+<http://waka.kgraph.jp/waka/i370-001-040> <http://purl.org/dc/elements/1.1/creator> <http://waka.kgraph.jp/author/未入力> .
+<http://waka.kgraph.jp/waka/i370-001-003> <http://waka.kgraph.jp/kgraph-waka#kana> "もみちはや−よとますうかふ−あすかかは−なかれてはやき−あきのひかすに" .
+<http://waka.kgraph.jp/waka/i370-001-045> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://waka.kgraph.jp/kgraph-waka#waka> .
+<http://waka.kgraph.jp/waka/i370-001-051> <http://www.w3.org/2002/07/owl#sameAs> <https://lapis.nichibun.ac.jp/waka/waka_i370.html#i370-001-051> .
+<http://waka.kgraph.jp/waka/i370-001-005> <http://waka.kgraph.jp/kgraph-waka#selected> <http://waka.kgraph.jp/collection/月卿雲客妬歌合　> .
+<http://waka.kgraph.jp/waka/i370-001-021> <http://waka.kgraph.jp/kgraph-waka#selected> <http://waka.kgraph.jp/collection/月卿雲客妬歌合　> .
+<http://waka.kgraph.jp/waka/i370-001-059> <http://waka.kgraph.jp/kgraph-waka#sentenceNumber> "00060" .
+<http://waka.kgraph.jp/collection/月卿雲客妬歌合　> <http://waka.kgraph.jp/kgraph-waka#sentenceId> "i370-001-043" .
+<http://waka.kgraph.jp/waka/i370-001-018> <http://waka.kgraph.jp/kgraph-waka#sentenceNumber> "00019" .
+<http://waka.kgraph.jp/waka/i370-001-028> <http://waka.kgraph.jp/kgraph-waka#yearEnd> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-015> <http://www.w3.org/2002/07/owl#sameAs> <https://lapis.nichibun.ac.jp/waka/waka_i370.html#i370-001-015> .
+<http://waka.kgraph.jp/collection/月卿雲客妬歌合　> <http://waka.kgraph.jp/kgraph-waka#sentenceId> "i370-001-013" .
+<http://waka.kgraph.jp/waka/i370-001-051> <http://waka.kgraph.jp/kgraph-waka#selected> <http://waka.kgraph.jp/collection/月卿雲客妬歌合　> .
+<http://waka.kgraph.jp/waka/i370-001-059> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://waka.kgraph.jp/kgraph-waka#waka> .
+<http://waka.kgraph.jp/collection/月卿雲客妬歌合　> <http://waka.kgraph.jp/kgraph-waka#sentenceId> "i370-001-040" .
+<http://waka.kgraph.jp/collection/月卿雲客妬歌合　> <http://waka.kgraph.jp/kgraph-waka#sentenceId> "i370-001-007" .
+<http://waka.kgraph.jp/waka/i370-001-013> <http://waka.kgraph.jp/kgraph-waka#sentenceNumber> "00014" .
+<http://waka.kgraph.jp/waka/i370-001-047> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://waka.kgraph.jp/kgraph-waka#waka> .
+<http://waka.kgraph.jp/collection/月卿雲客妬歌合　> <http://waka.kgraph.jp/kgraph-waka#sentenceId> "i370-001-014" .
+<http://waka.kgraph.jp/waka/i370-001-031> <http://waka.kgraph.jp/kgraph-waka#kana> "あふことは−かたののとたち−かるたかの−それてむなしき−おもひなりけり" .
+<http://waka.kgraph.jp/waka/i370-001-039> <http://www.w3.org/2002/07/owl#sameAs> <https://lapis.nichibun.ac.jp/waka/waka_i370.html#i370-001-039> .
+<http://waka.kgraph.jp/waka/i370-001-048> <http://waka.kgraph.jp/kgraph-waka#kana> "ころもては−しくるるあめの−ふりはへて−とはれぬやまの−おくのかりいほ" .
+<http://waka.kgraph.jp/waka/i370-001-046> <http://waka.kgraph.jp/kgraph-waka#yearBegin> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-035> <http://waka.kgraph.jp/kgraph-waka#yearEnd> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-025> <http://waka.kgraph.jp/kgraph-waka#kanji> "ものおもふ袖の涙のくれなゐにふりつつそなく山ほとときす" .
+<http://waka.kgraph.jp/waka/i370-001-037> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://waka.kgraph.jp/kgraph-waka#waka> .
+<http://waka.kgraph.jp/collection/月卿雲客妬歌合　> <http://waka.kgraph.jp/kgraph-waka#sentenceId> "i370-001-036" .
+<http://waka.kgraph.jp/waka/i370-001-010> <http://waka.kgraph.jp/kgraph-waka#selected> <http://waka.kgraph.jp/collection/月卿雲客妬歌合　> .
+<http://waka.kgraph.jp/collection/月卿雲客妬歌合　> <http://www.w3.org/2000/01/rdf-schema#label> "月卿雲客妬歌合　" .
+<http://waka.kgraph.jp/waka/i370-001-039> <http://waka.kgraph.jp/kgraph-waka#kana> "しのふれと−あまるなみたに−にほとりの−ぬれつつきつる−あとやみゆらむ" .
+<http://waka.kgraph.jp/waka/i370-001-028> <http://waka.kgraph.jp/kgraph-waka#authorNumber> "xxx" .
+<http://waka.kgraph.jp/collection/月卿雲客妬歌合　> <http://waka.kgraph.jp/kgraph-waka#sentenceId> "i370-001-058" .
+<http://waka.kgraph.jp/waka/i370-001-003> <http://waka.kgraph.jp/kgraph-waka#selected> <http://waka.kgraph.jp/collection/月卿雲客妬歌合　> .
+<http://waka.kgraph.jp/waka/i370-001-012> <http://waka.kgraph.jp/kgraph-waka#selected> <http://waka.kgraph.jp/collection/月卿雲客妬歌合　> .
+<http://waka.kgraph.jp/waka/i370-001-016> <http://waka.kgraph.jp/kgraph-waka#kana> "よもすから−しくるるよはの−あらしより−このはにうかふ−たにかはのみつ" .
+<http://waka.kgraph.jp/waka/i370-001-018> <http://waka.kgraph.jp/kgraph-waka#selected> <http://waka.kgraph.jp/collection/月卿雲客妬歌合　> .
+<http://waka.kgraph.jp/waka/i370-001-055> <http://waka.kgraph.jp/kgraph-waka#yearBegin> "1214" .
+<http://waka.kgraph.jp/collection/月卿雲客妬歌合　> <http://waka.kgraph.jp/kgraph-waka#sentenceId> "i370-001-026" .
+<http://waka.kgraph.jp/waka/i370-001-036> <http://waka.kgraph.jp/kgraph-waka#kanji> "物おもへはよそにはきかすさよ千鳥うらみてかへるあかつきの声" .
+<http://waka.kgraph.jp/waka/i370-001-015> <http://waka.kgraph.jp/kgraph-waka#selected> <http://waka.kgraph.jp/collection/月卿雲客妬歌合　> .
+<http://waka.kgraph.jp/waka/i370-001-052> <http://waka.kgraph.jp/kgraph-waka#yearEnd> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-042> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://waka.kgraph.jp/kgraph-waka#waka> .
+<http://waka.kgraph.jp/waka/i370-001-011> <http://waka.kgraph.jp/kgraph-waka#yearEnd> "1214" .
+<http://waka.kgraph.jp/collection/月卿雲客妬歌合　> <http://waka.kgraph.jp/kgraph-waka#sentenceId> "i370-001-049" .
+<http://waka.kgraph.jp/waka/i370-001-028> <http://waka.kgraph.jp/kgraph-waka#sentenceNumber> "00029" .
+<http://waka.kgraph.jp/waka/i370-001-040> <http://waka.kgraph.jp/kgraph-waka#sentenceNumber> "00041" .
+<http://waka.kgraph.jp/waka/i370-001-038> <http://www.w3.org/2002/07/owl#sameAs> <https://lapis.nichibun.ac.jp/waka/waka_i370.html#i370-001-038> .
+<http://waka.kgraph.jp/waka/i370-001-025> <http://waka.kgraph.jp/kgraph-waka#authorNumber> "xxx" .
+<http://waka.kgraph.jp/waka/i370-001-052> <http://waka.kgraph.jp/kgraph-waka#authorNumber> "xxx" .
+<http://waka.kgraph.jp/waka/i370-001-052> <http://www.w3.org/2002/07/owl#sameAs> <https://lapis.nichibun.ac.jp/waka/waka_i370.html#i370-001-052> .
+<http://waka.kgraph.jp/waka/i370-001-034> <http://waka.kgraph.jp/kgraph-waka#selected> <http://waka.kgraph.jp/collection/月卿雲客妬歌合　> .
+<http://waka.kgraph.jp/waka/i370-001-030> <http://waka.kgraph.jp/kgraph-waka#sentenceNumber> "00031" .
+<http://waka.kgraph.jp/waka/i370-001-029> <http://waka.kgraph.jp/kgraph-waka#variantNumber> "None" .
+<http://waka.kgraph.jp/waka/i370-001-009> <http://waka.kgraph.jp/kgraph-waka#yearBegin> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-059> <http://waka.kgraph.jp/kgraph-waka#kanji> "染むれともつれなき槙の下葉よりしくれにあへぬ袖の色かな" .
+<http://waka.kgraph.jp/waka/i370-001-046> <http://waka.kgraph.jp/kgraph-waka#sentenceNumber> "00047" .
+<http://waka.kgraph.jp/waka/i370-001-011> <http://waka.kgraph.jp/kgraph-waka#authorNumber> "xxx" .
+<http://waka.kgraph.jp/waka/i370-001-037> <http://waka.kgraph.jp/kgraph-waka#sentenceNumber> "00038" .
+<http://waka.kgraph.jp/waka/i370-001-022> <http://waka.kgraph.jp/kgraph-waka#kanji> "まちわひてこぬよむなしく明行けは涙にかすむ鴫のはねかき" .
+<http://waka.kgraph.jp/waka/i370-001-032> <http://purl.org/dc/elements/1.1/creator> <http://waka.kgraph.jp/author/未入力> .
+<http://waka.kgraph.jp/waka/i370-001-045> <http://waka.kgraph.jp/kgraph-waka#yearBegin> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-026> <http://waka.kgraph.jp/kgraph-waka#variantNumber> "None" .
+<http://waka.kgraph.jp/waka/i370-001-016> <http://waka.kgraph.jp/kgraph-waka#authorNumber> "xxx" .
+<http://waka.kgraph.jp/waka/i370-001-018> <http://waka.kgraph.jp/kgraph-waka#kana> "たつたやま−こすゑのあきを−なみにとめて−くれなゐむすふ−せせのかはかせ" .
+<http://waka.kgraph.jp/collection/月卿雲客妬歌合　> <http://waka.kgraph.jp/kgraph-waka#sentenceId> "i370-001-044" .
+<http://waka.kgraph.jp/waka/i370-001-016> <http://waka.kgraph.jp/kgraph-waka#kanji> "吹きまよふあらしにつけて行く秋を川せにいそく峰のもみちは" .
+<http://waka.kgraph.jp/waka/i370-001-039> <http://waka.kgraph.jp/kgraph-waka#selected> <http://waka.kgraph.jp/collection/月卿雲客妬歌合　> .
+<http://waka.kgraph.jp/waka/i370-001-053> <http://waka.kgraph.jp/kgraph-waka#sentenceNumber> "00054" .
+<http://waka.kgraph.jp/collection/月卿雲客妬歌合　> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://waka.kgraph.jp/kgraph-waka#wakaCollection> .
+<http://waka.kgraph.jp/waka/i370-001-012> <http://waka.kgraph.jp/kgraph-waka#kana> "こすゑには−おともあらしの−たつたかは−なほあきふかき−みつのいろかな" .
+<http://waka.kgraph.jp/waka/i370-001-055> <http://waka.kgraph.jp/kgraph-waka#yearEnd> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-046> <http://waka.kgraph.jp/kgraph-waka#authorNumber> "xxx" .
+<http://waka.kgraph.jp/waka/i370-001-015> <http://waka.kgraph.jp/kgraph-waka#sentenceNumber> "00016" .
+<http://waka.kgraph.jp/waka/i370-001-029> <http://waka.kgraph.jp/kgraph-waka#sentenceNumber> "00030" .
+<http://waka.kgraph.jp/waka/i370-001-059> <http://waka.kgraph.jp/kgraph-waka#yearBegin> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-041> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://waka.kgraph.jp/kgraph-waka#waka> .
+<http://waka.kgraph.jp/waka/i370-001-040> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://waka.kgraph.jp/kgraph-waka#waka> .
+<http://waka.kgraph.jp/waka/i370-001-022> <http://waka.kgraph.jp/kgraph-waka#selected> <http://waka.kgraph.jp/collection/月卿雲客妬歌合　> .
+<http://waka.kgraph.jp/waka/i370-001-029> <http://waka.kgraph.jp/kgraph-waka#kana> "わすれしな−ひとをうらみて−なくなへに−いなとなつけそ−いなおほせとり" .
+<http://waka.kgraph.jp/waka/i370-001-032> <http://www.w3.org/2002/07/owl#sameAs> <https://lapis.nichibun.ac.jp/waka/waka_i370.html#i370-001-032> .
+<http://waka.kgraph.jp/waka/i370-001-047> <http://waka.kgraph.jp/kgraph-waka#yearBegin> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-044> <http://waka.kgraph.jp/kgraph-waka#yearBegin> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-048> <http://waka.kgraph.jp/kgraph-waka#selected> <http://waka.kgraph.jp/collection/月卿雲客妬歌合　> .
+<http://waka.kgraph.jp/waka/i370-001-054> <http://waka.kgraph.jp/kgraph-waka#selected> <http://waka.kgraph.jp/collection/月卿雲客妬歌合　> .
+<http://waka.kgraph.jp/waka/i370-001-039> <http://waka.kgraph.jp/kgraph-waka#kanji> "はかなしや夢ちたえゆく鳥のねになきてわかれし人のおもかけ" .
+<http://waka.kgraph.jp/waka/i370-001-037> <http://waka.kgraph.jp/kgraph-waka#yearBegin> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-009> <http://www.w3.org/2002/07/owl#sameAs> <https://lapis.nichibun.ac.jp/waka/waka_i370.html#i370-001-009> .
+<http://waka.kgraph.jp/waka/i370-001-040> <http://waka.kgraph.jp/kgraph-waka#kanji> "忍ふれとあまる涙ににほ鳥のぬれつつきつる跡やみゆらむ" .
+<http://waka.kgraph.jp/waka/i370-001-021> <http://waka.kgraph.jp/kgraph-waka#kana> "まちわひて−こぬよむなしく−あけゆけは−なみたにかすむ−しきのはねかき" .
+<http://waka.kgraph.jp/waka/i370-001-055> <http://waka.kgraph.jp/kgraph-waka#authorNumber> "xxx" .
+<http://waka.kgraph.jp/waka/i370-001-028> <http://www.w3.org/2002/07/owl#sameAs> <https://lapis.nichibun.ac.jp/waka/waka_i370.html#i370-001-028> .
+<http://waka.kgraph.jp/waka/i370-001-041> <http://waka.kgraph.jp/kgraph-waka#yearBegin> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-040> <http://waka.kgraph.jp/kgraph-waka#yearBegin> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-013> <http://waka.kgraph.jp/kgraph-waka#selected> <http://waka.kgraph.jp/collection/月卿雲客妬歌合　> .
+<http://waka.kgraph.jp/waka/i370-001-012> <http://waka.kgraph.jp/kgraph-waka#sentenceNumber> "00013" .
+<http://waka.kgraph.jp/waka/i370-001-045> <http://www.w3.org/2002/07/owl#sameAs> <https://lapis.nichibun.ac.jp/waka/waka_i370.html#i370-001-045> .
+<http://waka.kgraph.jp/waka/i370-001-016> <http://waka.kgraph.jp/kgraph-waka#yearEnd> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-017> <http://waka.kgraph.jp/kgraph-waka#variantNumber> "None" .
+<http://waka.kgraph.jp/waka/i370-001-045> <http://waka.kgraph.jp/kgraph-waka#yearEnd> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-046> <http://waka.kgraph.jp/kgraph-waka#yearEnd> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-027> <http://www.w3.org/2002/07/owl#sameAs> <https://lapis.nichibun.ac.jp/waka/waka_i370.html#i370-001-027> .
+<http://waka.kgraph.jp/collection/月卿雲客妬歌合　> <http://waka.kgraph.jp/kgraph-waka#sentenceId> "i370-001-008" .
+<http://waka.kgraph.jp/waka/i370-001-056> <http://waka.kgraph.jp/kgraph-waka#sentenceNumber> "00057" .
+<http://waka.kgraph.jp/waka/i370-001-021> <http://waka.kgraph.jp/kgraph-waka#variantNumber> "None" .
+<http://waka.kgraph.jp/waka/i370-001-017> <http://waka.kgraph.jp/kgraph-waka#yearEnd> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-015> <http://waka.kgraph.jp/kgraph-waka#kana> "ふきまよふ−あらしにつけて−ゆくあきを−かはせにいそく−みねのもみちは" .
+<http://waka.kgraph.jp/waka/i370-001-058> <http://waka.kgraph.jp/kgraph-waka#authorNumber> "xxx" .
+<http://waka.kgraph.jp/waka/i370-001-059> <http://waka.kgraph.jp/kgraph-waka#yearEnd> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-036> <http://purl.org/dc/elements/1.1/creator> <http://waka.kgraph.jp/author/未入力> .
+<http://waka.kgraph.jp/waka/i370-001-005> <http://waka.kgraph.jp/kgraph-waka#sentenceNumber> "00005" .
+<http://waka.kgraph.jp/waka/i370-001-044> <http://waka.kgraph.jp/kgraph-waka#yearEnd> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-045> <http://waka.kgraph.jp/kgraph-waka#authorNumber> "xxx" .
+<http://waka.kgraph.jp/waka/i370-001-025> <http://waka.kgraph.jp/kgraph-waka#selected> <http://waka.kgraph.jp/collection/月卿雲客妬歌合　> .
+<http://waka.kgraph.jp/waka/i370-001-051> <http://waka.kgraph.jp/kgraph-waka#sentenceNumber> "00052" .
+<http://waka.kgraph.jp/waka/i370-001-029> <http://www.w3.org/2002/07/owl#sameAs> <https://lapis.nichibun.ac.jp/waka/waka_i370.html#i370-001-029> .
+<http://waka.kgraph.jp/waka/i370-001-043> <http://waka.kgraph.jp/kgraph-waka#selected> <http://waka.kgraph.jp/collection/月卿雲客妬歌合　> .
+<http://waka.kgraph.jp/waka/i370-001-027> <http://waka.kgraph.jp/kgraph-waka#variantNumber> "None" .
+<http://waka.kgraph.jp/waka/i370-001-048> <http://waka.kgraph.jp/kgraph-waka#sentenceNumber> "00049" .
+<http://waka.kgraph.jp/collection/月卿雲客妬歌合　> <http://waka.kgraph.jp/kgraph-waka#sentenceId> "i370-001-045" .
+<http://waka.kgraph.jp/waka/i370-001-008> <http://purl.org/dc/elements/1.1/creator> <http://waka.kgraph.jp/author/未入力> .
+<http://waka.kgraph.jp/waka/i370-001-059> <http://waka.kgraph.jp/kgraph-waka#authorNumber> "xxx" .
+<http://waka.kgraph.jp/waka/i370-001-027> <http://waka.kgraph.jp/kgraph-waka#yearEnd> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-035> <http://www.w3.org/2002/07/owl#sameAs> <https://lapis.nichibun.ac.jp/waka/waka_i370.html#i370-001-035> .
+<http://waka.kgraph.jp/waka/i370-001-001> <http://www.w3.org/2002/07/owl#sameAs> <https://lapis.nichibun.ac.jp/waka/waka_i370.html#i370-001-001> .
+<http://waka.kgraph.jp/waka/i370-001-057> <http://waka.kgraph.jp/kgraph-waka#kana> "おほかたの−さひしさのみは−なかりけり−みやまのあめの−あきのゆふくれ" .
+<http://waka.kgraph.jp/waka/i370-001-044> <http://waka.kgraph.jp/kgraph-waka#authorNumber> "xxx" .
+<http://waka.kgraph.jp/collection/月卿雲客妬歌合　> <http://waka.kgraph.jp/kgraph-waka#sentenceId> "i370-001-047" .
+<http://waka.kgraph.jp/waka/i370-001-056> <http://waka.kgraph.jp/kgraph-waka#kana> "けふもまた−つゆわけころも−ほしあへて−いくむらさめか−みくまののやま" .
+<http://waka.kgraph.jp/waka/i370-001-057> <http://purl.org/dc/elements/1.1/creator> <http://waka.kgraph.jp/author/未入力> .
+<http://waka.kgraph.jp/waka/i370-001-031> <http://purl.org/dc/elements/1.1/creator> <http://waka.kgraph.jp/author/未入力> .
+<http://waka.kgraph.jp/waka/i370-001-015> <http://waka.kgraph.jp/kgraph-waka#variantNumber> "None" .
+<http://waka.kgraph.jp/waka/i370-001-017> <http://www.w3.org/2002/07/owl#sameAs> <https://lapis.nichibun.ac.jp/waka/waka_i370.html#i370-001-017> .
+<http://waka.kgraph.jp/waka/i370-001-036> <http://waka.kgraph.jp/kgraph-waka#selected> <http://waka.kgraph.jp/collection/月卿雲客妬歌合　> .
+<http://waka.kgraph.jp/collection/月卿雲客妬歌合　> <http://waka.kgraph.jp/kgraph-waka#sentenceId> "i370-001-042" .
+<http://waka.kgraph.jp/waka/i370-001-033> <http://www.w3.org/2002/07/owl#sameAs> <https://lapis.nichibun.ac.jp/waka/waka_i370.html#i370-001-033> .
+<http://waka.kgraph.jp/collection/月卿雲客妬歌合　> <http://waka.kgraph.jp/kgraph-waka#sentenceId> "i370-001-030" .
+<http://waka.kgraph.jp/waka/i370-001-035> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://waka.kgraph.jp/kgraph-waka#waka> .
+<http://waka.kgraph.jp/waka/i370-001-052> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://waka.kgraph.jp/kgraph-waka#waka> .
+<http://waka.kgraph.jp/waka/i370-001-050> <http://waka.kgraph.jp/kgraph-waka#variantNumber> "None" .
+<http://waka.kgraph.jp/waka/i370-001-024> <http://purl.org/dc/elements/1.1/creator> <http://waka.kgraph.jp/author/未入力> .
+<http://waka.kgraph.jp/waka/i370-001-008> <http://waka.kgraph.jp/kgraph-waka#selected> <http://waka.kgraph.jp/collection/月卿雲客妬歌合　> .
+<http://waka.kgraph.jp/waka/i370-001-038> <http://waka.kgraph.jp/kgraph-waka#kanji> "わかこひはつれなきなみをかことにてかよふもくるしにほの下道" .
+<http://waka.kgraph.jp/waka/i370-001-020> <http://www.w3.org/2002/07/owl#sameAs> <https://lapis.nichibun.ac.jp/waka/waka_i370.html#i370-001-020> .
+<http://waka.kgraph.jp/waka/i370-001-007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://waka.kgraph.jp/kgraph-waka#waka> .
+<http://waka.kgraph.jp/waka/i370-001-028> <http://waka.kgraph.jp/kgraph-waka#selected> <http://waka.kgraph.jp/collection/月卿雲客妬歌合　> .
+<http://waka.kgraph.jp/waka/i370-001-029> <http://purl.org/dc/elements/1.1/creator> <http://waka.kgraph.jp/author/未入力> .
+<http://waka.kgraph.jp/waka/i370-001-051> <http://waka.kgraph.jp/kgraph-waka#variantNumber> "None" .
+<http://waka.kgraph.jp/waka/i370-001-053> <http://www.w3.org/2002/07/owl#sameAs> <https://lapis.nichibun.ac.jp/waka/waka_i370.html#i370-001-053> .
+<http://waka.kgraph.jp/collection/月卿雲客妬歌合　> <http://waka.kgraph.jp/kgraph-waka#sentenceId> "i370-001-038" .
+<http://waka.kgraph.jp/waka/i370-001-026> <http://waka.kgraph.jp/kgraph-waka#sentenceNumber> "00027" .
+<http://waka.kgraph.jp/waka/i370-001-016> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://waka.kgraph.jp/kgraph-waka#waka> .
+<http://waka.kgraph.jp/waka/i370-001-021> <http://waka.kgraph.jp/kgraph-waka#kanji> "けふもきてむなしき袖にとふ鳥のあすかとたにも何をたのまん" .
+<http://waka.kgraph.jp/waka/i370-001-033> <http://waka.kgraph.jp/kgraph-waka#sentenceNumber> "00034" .
+<http://waka.kgraph.jp/waka/i370-001-030> <http://purl.org/dc/elements/1.1/creator> <http://waka.kgraph.jp/author/未入力> .
+<http://waka.kgraph.jp/collection/月卿雲客妬歌合　> <http://waka.kgraph.jp/kgraph-waka#sentenceId> "i370-001-027" .
+<http://waka.kgraph.jp/waka/i370-001-026> <http://purl.org/dc/elements/1.1/creator> <http://waka.kgraph.jp/author/未入力> .
+<http://waka.kgraph.jp/waka/i370-001-036> <http://www.w3.org/2002/07/owl#sameAs> <https://lapis.nichibun.ac.jp/waka/waka_i370.html#i370-001-036> .
+<http://waka.kgraph.jp/waka/i370-001-034> <http://waka.kgraph.jp/kgraph-waka#sentenceNumber> "00035" .
+<http://waka.kgraph.jp/waka/i370-001-038> <http://waka.kgraph.jp/kgraph-waka#variantNumber> "None" .
+<http://waka.kgraph.jp/waka/i370-001-042> <http://www.w3.org/2002/07/owl#sameAs> <https://lapis.nichibun.ac.jp/waka/waka_i370.html#i370-001-042> .
+<http://waka.kgraph.jp/waka/i370-001-040> <http://waka.kgraph.jp/kgraph-waka#yearEnd> "1214" .
+<http://waka.kgraph.jp/waka/i370-001-018> <http://waka.kgraph.jp/kgraph-waka#variantNumber> "None" .
+<http://waka.kgraph.jp/waka/i370-001-050> <http://waka.kgraph.jp/kgraph-waka#kana> "このころは−もみちをそむる−しくれのみ−ふるのやまみち−たれかよふらむ" .
+<http://waka.kgraph.jp/waka/i370-001-038> <http://waka.kgraph.jp/kgraph-waka#yearEnd> "1214" .
+<http://waka.kgraph.jp/collection/月卿雲客妬歌合　> <http://waka.kgraph.jp/kgraph-waka#sentenceId> "i370-001-006" .
+<http://waka.kgraph.jp/waka/i370-001-014> <http://waka.kgraph.jp/kgraph-waka#selected> <http://waka.kgraph.jp/collection/月卿雲客妬歌合　> .
+<http://waka.kgraph.jp/waka/i370-001-029> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://waka.kgraph.jp/kgraph-waka#waka> .
+<http://waka.kgraph.jp/waka/i370-001-011> <http://waka.kgraph.jp/kgraph-waka#sentenceNumber> "00012" .
